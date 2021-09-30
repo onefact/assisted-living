@@ -6,7 +6,7 @@ Dataset of assisted living facilities is 'alf-dataset.csv'.
 
 It currently has 47 states and DC. We are working on adding the last three states.
 
-'Notebooks' contains most of our code used to process, clean, and analyize the data. File paths are currently broken as files have been moved around.
+`Notebooks` contains most of our code used to process, clean, and analyize the data. File paths are currently broken as files have been moved around.
 
 'Data' contains other data files. 'raw-state-data' contains the raw data gathered from all of the 48 states, as well as different stages of processing for each state's data.
 
