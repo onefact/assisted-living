@@ -1,0 +1,34 @@
+﻿Variable,&,Description,&,Percent Filled,\\
+Facility Name,&,The name of the facility,&,100\%,\\
+Facility ID,&,The facility identification number,&,65\%,\\
+License Number,&,The facility license number,&,48\%,\\
+Address,&,The primary physical address of the facility,&,100\%,\\
+City,&,The city of the address,&,98\%,\\
+State,&,The state of the address,&,100\%,\\
+Zip Code,&,The zip code of the address,&,97\%,\\
+County,&,The county of the address,&,100\%,\\
+County FIPS,&,The FIPS code of the county,&,100\%,\\
+Latitude,&,Latitude of the address,&,100\%,\\
+Longitude,&,Longitude of the address,&,100\%,\\
+Facility Type Primary,&,The primary licensing type of the facility,&,100\%,\\
+Facility Type Secondary,&,The secondary licensing type of the facility,&,41\%,\\
+Capacity,&,The total capacity of the facility in beds,&,86\%,\\
+Ownership Type,&,The ownership structure of the facility,&,27\%,\\
+Licensee,&,The license holder of the facility,&,48\%,\\
+Phone Number,&,Primary phone number associated with facility,&,98\%,\\
+Email Address,&,Primary email address associated with facility,&,35\%,\\
+Date Accessed,&,Date that the data was retrieved from state licensing agency,&,100\%,\\
+Total County AL Need,&,The computed need-based metric for county of facility,&,100\%,\\
+County Percent of Population 65 or Older,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Median Age,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Homeownership Rate,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County College Education or Higher Rate,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Percent Black Population,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Median Home Value of Owned Homes,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Percent Hispanic Population,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Percent of Population 85 or Older,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Meidan Household Income,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Unemployment Rate,&,Retrieved from 2020 ACS data,&,100\%,\\
+County Less Than High School Diploma Rate,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Percent Whilte Population,&,Retrieved from 2015-2019 ACS data,&,100\%,\\
+County Poverty Rate,&,Retrieved from 2015-2019 ACS data,&,100\%,\\

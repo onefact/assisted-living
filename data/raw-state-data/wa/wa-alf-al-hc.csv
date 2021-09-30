@@ -1,0 +1,542 @@
+State Facility Type 2 Literal,Medicaid,License Number,Facility ID,Facility Name,Address,City,State,Zip Code,County,Phone Number,Capacity,State Facility Type 1 Literal
+Assisted Living SOW,Yes,2334,43697,COVENTRY HOUSE,430 N 2nd Ave,Othello,WA,99344,Adams,(509) 488-1000,55,Assisted Living Facility
+Assisted Living SOW,Yes,1713,30864,ROSE GARDEN ESTATES,406 S Cascade St,Ritzville,WA,99169,Adams,(509) 659-4717,21,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care",Yes,2039,39377,AVALON PROGRESSIVE CARE LLC,1937 2ND AVE,CLARKSTON,WA,99403,Asotin,(509) 758-6770,12,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2022,40054,EVERGREEN ESTATES RETIREMENT & ASSISTED LIVING COMMUNITY,1215 Evergreen Ct,Clarkston,WA,99403,Asotin,(509) 758-5260,50,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2154,41832,Amber Hills,125 N Wamba Rd,Prosser,WA,99350,Benton,(509) 786-3100,44,Assisted Living Facility
+No Contract,Yes,2015,39600,BONAVENTURE OF THE TRI-CITIES,1800 BELLERIVE DRIVE,RICHLAND,WA,99352,Benton,(509) 628-0221,123,Assisted Living Facility
+No Contract,Yes,2263,42372,Brookdale Canyon Lakes,2802 W 35TH AVE,KENNEWICK,WA,99337,Benton,(509) 586-5633,43,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2311,42383,Brookdale Meadow Springs,770 Gage Blvd,Richland,WA,99352,Benton,(509) 627-3032,108,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1696,30848,Brookdale Richland,1629 George Washington Way,Richland,WA,99354,Benton,(509) 946-4600,159,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2325,42394,Brookdale Torbett,221 Torbett St,Richland,WA,99354,Benton,(509) 943-5353,48,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2511,45603,Callaway Gardens Alzheimers Special Care Center,5505 W Skagit Ct,Kennewick,WA,99336,Benton,(509) 783-5433,56,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2459,45089,Creekstone Care Homes LLC,3321 W 10th Ave,Kennewick,WA,99336,Benton,,28,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2449,44923,Fieldstone Grandridge Independent and Assisted Living,7255 W Grandridge Blvd,Kennewick,WA,99336,Benton,(509) 491-3946,102,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2448,44922,Fieldstone Memory Care of Kennewick,575 N Young St,Kennewick,WA,99336,Benton,(509) 491-3945,69,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care",Yes,1513,30723,GUARDIAN ANGEL HOMES (THE COTTAGE),245 Van Giesen St,Richland,WA,99354,Benton,(509) 943-2100,96,Assisted Living Facility
+No Contract,Yes,1268,30548,HAWTHORNE COURT,524 N Ely St,Kennewick,WA,99336,Benton,(509) 783-8313,62,Assisted Living Facility
+Assisted Living SOW,Yes,2025,40208,Parkview Estates,7820 W 6th Ave,Kennewick,WA,99336,Benton,(509) 734-9773,110,Assisted Living Facility
+Assisted Living SOW,Yes,2150,41835,Prestige Assisted Living at Richland,1745 Pike Ave,Richland,WA,993542295,Benton,(509) 946-8095,26,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1526,30733,"ROSETTA ASSISTED LIVING,  FISHER",520 N FISHER STREET,KENNEWICK,WA,99336,Benton,(509) 734-3311,16,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1614,30799,"ROSETTA ASSISTED LIVING, HOXIE",1939 Hoxie Ave,Richland,WA,99354,Benton,(509) 943-5411,16,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1527,30734,"ROSETTA ASSISTED LIVING, OLYMPIA",1208 W 11TH PL,KENNEWICK,WA,99337,Benton,(509) 582-3832,16,Assisted Living Facility
+No Contract,Yes,2581,46796,Royal Columbian Senior Living,5615 W Umatilla Ave,Kennewick,WA,99336,Benton,(509) 591-9974,96,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2206,41933,Ruan's Garden,3502 W 4th Ave,Kennewick,WA,99336,Benton,(509) 783-9305,15,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,1440,30675,SUN TERRACE PROSSER,2131 WINE COUNTRY ROAD,PROSSER,WA,99350,Benton,(509) 786-3300,95,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2536,46079,Three Rivers Place Senior Living,1108 W 5th Ave,Kennewick,WA,99336,Benton,,42,Assisted Living Facility
+No Contract,Yes,2540,46053,Windsong at Southridge,4000 W 24th Avenue,Kennewick,WA,99338,Benton,(509) 202-4327,56,Assisted Living Facility
+No Contract,Yes,2415,44333,Avamere at Wenatchee,1550 CHERRY STREET,WENATCHEE,WA,98801,Chelan,(509) 662-8646,84,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2395,44304,Blossom Creek Senior Alzheimer Community,1740 Madison St,Wenatchee,WA,988014700,Chelan,(509) 662-3500,50,Assisted Living Facility
+No Contract,Yes,2397,44306,Blossom Valley Senior Assisted Living Community,1701 Orchard Ave,Wenatchee,WA,98801,Chelan,(509) 667-0990,80,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2067,40850,CHRISTOPHER HOUSE,100 S Cleveland Ave,Wenatchee,WA,98801,Chelan,(509) 888-0773,77,Assisted Living Facility
+Assisted Living SOW,Yes,1422,30661,EPLEDALEN RETIREMENT & ASSISTED LIVING,809 PIONEER AVENUE,CASHMERE,WA,98815,Chelan,(509) 782-7600,39,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2486,45129,Fieldstone Memory Care of Wenatchee,817 Red Apple Road,Wenatchee,WA,98801,Chelan,(509) 884-3178,60,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1223,30510,HERITAGE HEIGHTS AT LAKE CHELAN,505 E HIGHLAND AVENUE,CHELAN,WA,98816,Chelan,(509) 682-1998,32,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2225,42145,HIGHGATE SENIOR LIVING,1320 S MILLER ST,WENATCHEE,WA,98801,Chelan,(509) 665-6695,75,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,1634,30812,MOUNTAIN MEADOWS,320 PARK AVE,LEAVENWORTH,WA,98826,Chelan,(509) 548-4076,60,Assisted Living Facility
+No Contract,Yes,2393,44288,Prestige Senior Living at Colonial Vista,601 OKANOGAN AVE,WENATCHEE,WA,98801,Chelan,(509) 663-3337,55,Assisted Living Facility
+Assisted Living SOW,Yes,1462,30694,RIVERWEST RETIREMENT COMMUNITY,900 N WESTERN AVE,WENATCHEE,WA,98801,Chelan,(509) 662-2797,56,Assisted Living Facility
+No Contract,Yes,713,30139,Arlene Engel Home,138 W 2ND ST,PORT ANGELES,WA,98362,Clallam,(360) 452-3831,19,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2560,46606,Discovery Memory Care,408 W Washington St,Sequim,WA,98382,Clallam,(360) 683-7047,58,Assisted Living Facility
+No Contract,Yes,1328,30595,DUNGENESS COURTE ALZHEIMERS COMMUNITY,651 N GARRY OAK DR,SEQUIM,WA,98382,Clallam,(360) 582-9309,40,Assisted Living Facility
+No Contract,Yes,1823,30946,GOLDEN YEARS RESIDENTIAL CARE HOME,202 BIRDSONG LANE,PORT ANGELES,WA,98362,Clallam,(360) 452-1566,16,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care",Yes,2378,44047,Highland Court Memory Care,1704 Melody Ln,Port Angeles,WA,98362,Clallam,(360) 452-9086,43,Assisted Living Facility
+Assisted Living SOW,Yes,2545,46070,Laurel Place,1133 E Park Ave,Port Angeles,WA,98362,Clallam,(360) 452-7201,45,Assisted Living Facility
+No Contract,Yes,2332,43702,Park View Villas,1430 Park View Lane,Port Angeles,WA,98363,Clallam,(360) 452-7222,65,Assisted Living Facility
+No Contract,Yes,646,30110,SHERWOOD ASSISTED LIVING,550 W HENDRICKSON RD,SEQUIM,WA,98382,Clallam,(360) 683-3348,107,Assisted Living Facility
+No Contract,Yes,2187,42042,Sinclair Place,680 W Prairie St,Sequim,WA,98382,Clallam,(360) 681-3385,68,Assisted Living Facility
+Assisted Living SOW,Yes,1195,30488,ST ANDREWS PLACE ASSISTED LIVING,520 EAST PARK AVE,PORT ANGELES,WA,98362,Clallam,(360) 417-3418,41,Assisted Living Facility
+Assisted Living SOW,Yes,1588,30780,ARBOR RIDGE ASSISTED LIVING,9501 NE Hazel Dell Ave,Vancouver,WA,98665,Clark,(360) 576-8883,67,Assisted Living Facility
+No Contract,Yes,2321,42436,Bonaventure of Salmon Creek,13700 NE Salmon Creek Ave,Vancouver,WA,98686,Clark,(360) 816-4221,89,Assisted Living Facility
+No Contract,Yes,2535,45344,Bonaventure of Vancouver,9317 NE 86th Street,Vancouver,WA,98662,Clark,,88,Assisted Living Facility
+Assisted Living SOW,Yes,2261,42360,Brookdale Fishers Landing,17171 SE 22ND DR,VANCOUVER,WA,98683,Clark,(360) 885-1400,91,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2308,42389,Brookdale Vancouver Stonebridge,7900 NE Vancouver Mall Dr,Vancouver,WA,98662,Clark,(360) 882-8800,80,Assisted Living Facility
+Assisted Living SOW,Yes,784,30164,CASCADE RETIREMENT INN,11613 SE 7th St,Vancouver,WA,98683,Clark,(360) 254-3555,170,Assisted Living Facility
+No Contract,Yes,2579,46735,Clearwater Springs Assisted Living,201 NW 78th St,Vancouver,WA,98665,Clark,(360) 546-3344,95,Assisted Living Facility
+No Contract,Yes,2472,45281,Cogir Vancouver Orchards,10011 NE 118th Ave,Vancouver,WA,98682,Clark,(360) 896-6081,90,Assisted Living Facility
+Assisted Living SOW,Yes,1521,30730,COLUMBIA RIDGE ASSISTED LIVING,2300 W 9TH STREET,WASHOUGAL,WA,98671,Clark,(360) 335-1238,74,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2546,46072,Creekside Place,208 SW 20th Ave,Battle Ground,WA,98604,Clark,,40,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1169,30462,"EVERGREEN INN, THE",500 MAIN ST,VANCOUVER,WA,98660,Clark,(360) 696-4000,85,Assisted Living Facility
+No Contract,Yes,2349,43766,Evergreen Place,2610 SE 164th Ave,Vancouver,WA,98683,Clark,(360) 813-6885,44,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2537,45971,Fort Vancouver Assisted Living,8422 NE 8th Way,Vancouver,WA,98664,Clark,(360) 256-2980,50,Assisted Living Facility
+Assisted Living SOW,Yes,1479,30707,GLENWOOD PLACE SENIOR LIVING,5500 NE 82ND AVENUE,VANCOUVER,WA,98662,Clark,(360) 892-1100,253,Assisted Living Facility
+No Contract,Yes,2233,42146,Highgate Senior Living,9803 NE Hazel Dell Ave,Vancouver,WA,98665,Clark,(360) 571-7272,71,Assisted Living Facility
+No Contract,Yes,2356,43756,Kent Place,2647 NW Kent St,Camas,WA,98607,Clark,(360) 834-3988,42,Assisted Living Facility
+Assisted Living SOW,Yes,2398,44307,Mallard Landing Senior Assisted Living Community,813 SE Clark Ave,Battle ground,WA,98604,Clark,(360) 687-0123,85,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2384,44309,Pacifica Senior Living Vancouver,2410 NE 112th Ave,Vancouver,WA,98684,Clark,(360) 619-5245,72,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1615,30800,PRESTIGE ASSISTED LIVING AT HAZEL DELL,7514 NE 13TH AVE,VANCOUVER,WA,98665,Clark,(360) 693-2402,75,Assisted Living Facility
+Assisted Living SOW,Yes,2237,42170,Prestige Senior Living Bridgewood,11700 NE Angelo Dr,Vancouver,WA,98684,Clark,(360) 254-4666,80,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2252,42286,Ridgefield Living Center,104 Pioneer St,Ridgefield,WA,98642,Clark,(360) 887-5066,38,Assisted Living Facility
+No Contract,Yes,2414,44424,Stephen's Place,501 SE Ellsworth Rd,Vancouver,WA,98664,Clark,(360) 984-3600,30,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1946,38918,The Hampton Alzheimers Community,1617 SE Talton Ave,Vancouver,WA,98683,Clark,(360) 256-8513,85,Assisted Living Facility
+No Contract,Yes,2227,42173,The Hampton at Salmon Creek Memory Care Community,2305 NE 129th Street,Vancouver,WA,98686,Clark,(360) 949-7647,68,Assisted Living Facility
+No Contract,Yes,1991,39412,The Quarry Senior Living at Columbia Tech Center,415 SE 177th Ave,Vancouver,WA,98683,Clark,(360) 944-6000,220,Assisted Living Facility
+No Contract,Yes,1189,30482,Touchmark at Fairway Village,2911 SE Village Loop,Vancouver,WA,98683,Clark,(360) 254-2866,140,Assisted Living Facility
+No Contract,Yes,972,30285,VAN MALL RETIREMENT,7808 NE 51ST ST,VANCOUVER,WA,98662,Clark,(360) 896-9140,75,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2529,45983,Van Vista Assisted Living,410 W 13th St,Vancouver,WA,98660,Clark,(360) 750-4665,97,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2117,40937,Windsor Gardens Inc,1602 NE 162nd Ave,Vancouver,WA,98684,Clark,(360) 944-7419,12,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1028,30328,WOODLAND ASSISTED LIVING,310 4th St,Woodland,WA,98674,Clark,(360) 225-9443,32,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1180,30473,Patit Creek Adult Residential Care,423 W Main St,Dayton,WA,99328,Columbia,(509) 382-2410,30,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1580,30776,CANTERBURY GARDENS,1457 3rd Ave,Longview,WA,98632,Cowlitz,(360) 423-2200,72,Assisted Living Facility
+No Contract,Yes,1581,30777,CANTERBURY RETIREMENT INN,1324 3rd Ave,Longview,WA,98632,Cowlitz,(360) 425-7947,140,Assisted Living Facility
+Assisted Living SOW,Yes,1574,30771,DELAWARE PLAZA RETIREMENT INN,926 Delaware St,Longview,WA,98632,Cowlitz,(360) 423-3333,108,Assisted Living Facility
+No Contract,Yes,2348,43759,Highlander Place,114 Corduroy Rd,Kelso,WA,98626,Cowlitz,(360) 636-2319,40,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2380,44194,Kleine Enterprises DBA The Villager LLC,420 1st Ave SW,Castle Rock,WA,98611,Cowlitz,(360) 274-7944,35,Assisted Living Facility
+Assisted Living SOW,Yes,1590,30782,NEW WESTSIDE TERRACE (NWST),1200 17TH AVENUE,LONGVIEW,WA,98632,Cowlitz,(360) 423-9392,62,Assisted Living Facility
+Assisted Living SOW,Yes,2238,42168,Prestige Senior Living Monticello Park,605 Broadway St,Longview,WA,98632,Cowlitz,(360) 575-1778,95,Assisted Living Facility
+Assisted Living SOW,Yes,1461,30693,SOMERSET RETIREMENT APARTMENTS,2025 TIBBETTS DR,LONGVIEW,WA,98632,Cowlitz,(360) 423-7392,56,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2324,42339,Amber Waves ALF LLC,302 East Ash Street,Waterville,WA,98858,Douglas,(509) 745-8187,15,Assisted Living Facility
+No Contract,Yes,2026,39725,BONAVENTURE OF EAST WENATCHEE,50 29TH STREET NW,EAST WENATCHEE,WA,98802,Douglas,(509) 881-2093,149,Assisted Living Facility
+No Contract,Yes,2580,46794,Kadie Glen Assisted Living,451 North Baker Ave,East Wenatchee,WA,98802,Douglas,(509) 884-9555,64,Assisted Living Facility
+Assisted Living Facility (ALF),Yes,2391,44289,Prestige Senior Living at East Wenatchee,589 HIGHLINE DR,EAST WENATCHEE,WA,98802,Douglas,(509) 884-3938,42,Assisted Living Facility
+Assisted Living SOW,Yes,1941,30969,KLONDIKE HILLS,36 KLONDIKE RD,REPUBLIC,WA,991660000,Ferry,(509) 775-3333,16,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2515,45617,Rosetta Pasco,5921 Road 60,Pasco,WA,99301,Franklin,(208) 391-2520,46,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2549,46367,Tri-Cities Assisted Living,2000 N 22nd Ave,Pasco,WA,99301,Franklin,(509) 547-2466,115,Assisted Living Facility
+Assisted Living SOW,Yes,2463,45020,Avamere at Moses Lake,8425 Aspi Blvd NE,Moses Lake,WA,98837,Grant,(509) 762-9115,85,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2524,45655,Brookdale Hearthstone Moses Lake,905 S Pioneer Way,Moses Lake,WA,98837,Grant,(509) 765-2121,100,Assisted Living Facility
+Assisted Living SOW,Yes,1199,30492,Garden Oasis,200 NAT WASHINGTON WAY,Ephrata,WA,98823,Grant,(509) 754-4631,32,Assisted Living Facility
+No Contract,Yes,2532,45713,"Monroe House, A Senior Living Community",1405 S MONROE ST,MOSES LAKE,WA,98837,Grant,(509) 765-2200,41,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care",Yes,2514,45604,Summer Wood Alzheimer's Special Care Center,830 NW Sunburst Ct,Moses Lake,WA,98837,Grant,(509) 764-1900,56,Assisted Living Facility
+Assisted Living SOW,Yes,1716,30865,THE CAMBRIDGE,301 H ST SW,QUINCY,WA,98848,Grant,(509) 797-9555,36,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2148,41739,Beehive Retirement and Assisted Living Community,401 W Maple St,McCleary,WA,98557,Grays Harbor,(360) 495-3555,61,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2264,42370,Brookdale Ocean Shores,1020 CATALA AVENUE SE,OCEAN SHORES,WA,98569,Grays Harbor,(360) 289-9663,54,Assisted Living Facility
+Assisted Living SOW,Yes,874,30215,CHANNEL POINT VILLAGE,907 K St,Hoquiam,WA,98550,Grays Harbor,(360) 532-9000,55,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2383,44253,Elma Home Care,901 West Young St,Elma,WA,98541,Grays Harbor,(360) 482-2684,26,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2363,44012,Riverside Place,1649 Broadway Ave,Hoquiam,WA,98550,Grays Harbor,(360) 532-3007,38,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2152,41742,Westhaven Villa,1000 Anderson Dr,Aberdeen,WA,98520,Grays Harbor,(360) 538-9983,54,Assisted Living Facility
+Assisted Living SOW,Yes,894,30227,HARBOR TOWER VILLAGE INC,100 E WHIDBEY AVE,OAK HARBOR,WA,98277,Island,(360) 675-2569,22,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2501,45557,Homeplace Special Care Center at Oak Harbor,171 SW 6TH AVE,OAK HARBOR,WA,98277,Island,(360) 279-2555,50,Assisted Living Facility
+No Contract,Yes,1966,39069,Maple Ridge Assisted Living Community,1767 Alliance Avenue,Freeland,WA,98249,Island,(360) 331-1303,81,Assisted Living Facility
+"Specialized Dementia Care, Assisted Living SOW",Yes,1738,30882,REGENCY ON WHIDBEY,1045 SW KIMBALL DR,OAK HARBOR,WA,98277,Island,(360) 279-0933,41,Assisted Living Facility
+Assisted Living SOW,Yes,1739,30883,REGENCY ON WHIDBEY,1040 SW KIMBALL DRIVE,OAK HARBOR,WA,98277,Island,(360) 279-0933,73,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1839,30960,SUMMER HILL,165 SW 6TH AVE,OAK HARBOR,WA,982770000,Island,(360) 679-1400,70,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2424,44475,Welcome Home (Oak Harbor Senior Memory Care),235 SW 6TH AVE,OAK HARBOR,WA,98277,Island,(360) 682-5998,55,Assisted Living Facility
+Assisted Living SOW,Yes,2408,44334,Avamere at Port Townsend,1201 Hancock St,Port Townsend,WA,98368,Jefferson,(360) 379-9376,90,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2143,41741,San Juan Villa,112 Castellano Way,Port Townsend,WA,98368,Jefferson,(360) 344-3114,32,Assisted Living Facility
+No Contract,Yes,2185,42039,Victoria Place,491 Discovery Rd,Port Townsend,WA,98368,Jefferson,(360) 638-3845,39,Assisted Living Facility
+No Contract,Yes,2505,45681,*Welcome Home Assisted Living LLC,738 N 200TH ST.,SHORELINE,WA,98133,King,(206) 546-1679,8,Assisted Living Facility
+No Contract,Yes,1622,30803,AEGIS ASSISTED LIVING OF KIRKLAND,13000 Totem Lake Blvd NE,Kirkland,WA,98034,King,(425) 823-7272,60,Assisted Living Facility
+No Contract,Yes,1627,30807,AEGIS AT CALLAHAN HOUSE,15100 1st Ave NE,Shoreline,WA,98155,King,(206) 417-9747,59,Assisted Living Facility
+No Contract,Yes,2435,44374,Aegis Gardens at Newcastle,13056 SE 76th St,Newcastle,WA,98056,King,(425) 970-6708,140,Assisted Living Facility
+No Contract,Yes,2455,44636,Aegis Living at Ravenna,8511 15th Ave NE,Seattle,WA,98115,King,,104,Assisted Living Facility
+No Contract,Yes,2567,46491,Aegis Living Bellevue Overlake,1845 116th Ave NE,Bellevue,WA,98004,King,(425) 233-6030,160,Assisted Living Facility
+No Contract,Yes,2454,44848,Aegis Living of West Seattle,4700 SW Admiral Way,Seattle,WA,98116,King,(206) 436-0500,100,Assisted Living Facility
+No Contract,Yes,2492,45356,Aegis Lodge of Kirkland,12629 116TH AVE NE,KIRKLAND,WA,98034,King,,96,Assisted Living Facility
+No Contract,Yes,2491,45355,Aegis of Bellevue,148 102nd Ave SE,Bellevue,WA,98004,King,,101,Assisted Living Facility
+No Contract,Yes,1997,39713,AEGIS OF ISSAQUAH,780 NW JUNIPER STREET,ISSAQUAH,WA,98027,King,(425) 392-8100,100,Assisted Living Facility
+No Contract,Yes,2241,41998,AEGIS OF MADISON,2200 E Madison St,Seattle,WA,98112,King,(206) 325-1600,125,Assisted Living Facility
+No Contract,Yes,2209,41972,AEGIS OF MARYMOOR,4585 WEST LAKE SAMMAMISH PARKWAY NE,REDMOND,WA,98052,King,(425) 497-0900,72,Assisted Living Facility
+No Contract,Yes,2509,45398,Aegis of Mercer Island,7445 SE 24th Street,Mercer Island,WA,98040,King,(206) 602-1365,128,Assisted Living Facility
+No Contract,Yes,2381,43932,Aegis of Queen Anne at Rodgers Park,2900 3rd Ave W,Seattle,WA,98119,King,(206) 858-9989,150,Assisted Living Facility
+No Contract,Yes,2339,43768,Aegis of Queen Anne on Galer,223 W Galer St,Seattle,WA,98119,King,(206) 285-1106,68,Assisted Living Facility
+No Contract,Yes,1944,38914,AEGIS SENIOR INN OF KENT,10421 SE 248th St,Kent,WA,98030,King,(253) 520-8400,48,Assisted Living Facility
+No Contract,Yes,1804,30931,AEGIS SENIOR INN OF REDMOND,7480 W LAKE SAMMAMISH PKWY NE,REDMOND,WA,98052,King,(425) 883-4000,52,Assisted Living Facility
+No Contract,Yes,1803,30930,AEGIS SENIOR LIVING OF SHORELINE,14900 1ST AVENUE NE,SHORELINE,WA,98155,King,(206) 367-6700,130,Assisted Living Facility
+No Contract,Yes,2019,39587,ALJOYA MERCER ISLAND,2430 76TH AVENUE SE,MERCER ISLAND,WA,98040,King,(206) 230-0150,35,Assisted Living Facility
+No Contract,Yes,2040,40268,ALJOYA THORNTON PLACE,450 NE 100TH STREET,SEATTLE,WA,98125,King,(206) 470-8000,35,Assisted Living Facility
+No Contract,Yes,1993,39576,ARBOR VILLAGE RETIREMENT & ASSISTED LIVING COMMUNITY,24121 116TH AVE SE,KENT,WA,98030,King,(253) 856-1600,100,Assisted Living Facility
+No Contract,Yes,2055,40235,BALLARD LANDMARK,5433 LEARY AVENUE NW,SEATTLE,WA,98107,King,(206) 782-4000,60,Assisted Living Facility
+No Contract,Yes,162,30011,BAYVIEW MANOR HOMES,11 W Aloha St,Seattle,WA,981199963,King,(206) 284-7330,51,Assisted Living Facility
+No Contract,Yes,606,30096,BEVERLY PARK GROUP HOME,150 SW 114TH ST,SEATTLE,WA,98146,King,(206) 241-2049,8,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2390,43960,Brannan Park Assisted Living and Memory Care Community,2901 I Street NE,Auburn,WA,98002,King,(253) 736-2800,90,Assisted Living Facility
+No Contract,Yes,2544,46201,Briarwood at Timber Ridge,100 Timber Ridge Way NW,Issaquah,WA,98027,King,(425) 427-5200,35,Assisted Living Facility
+No Contract,Yes,2306,42355,Brookdale Admiral Heights,2326 CALIFORNIA AVE SW,SEATTLE,WA,98116,King,(206) 866-1711,55,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2526,45656,Brookdale Federal Way,31002 14th Ave S,Federal Way,WA,98003,King,(253) 941-0156,110,Assisted Living Facility
+No Contract,Yes,1917,30970,Brookdale Foundation House,32290 1st Ave S,Federal Way,WA,98003,King,(253) 838-8823,129,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2296,42392,Brookdale Renton,71 SW VICTORIA ST,RENTON,WA,98057,King,(425) 226-8977,105,Assisted Living Facility
+No Contract,Yes,2319,42369,Brookdale West Seattle,4611 35TH AVE SW,SEATTLE,WA,98126,King,(206) 932-5480,60,Assisted Living Facility
+Assisted Living SOW,Yes,2541,46073,Cascade Place,2000 Mountain View Dr,Enumclaw,WA,98022,King,,40,Assisted Living Facility
+No Contract,Yes,2228,41982,CHATEAU AT BOTHELL LANDING RETIREMENT COMMUNITY,17543 102ND AVENUE NE,BOTHELL,WA,98011,King,(425) 485-1155,142,Assisted Living Facility
+No Contract,Yes,2230,41980,CHATEAU AT VALLEY CENTER RETIREMENT COMMUNITY,4450 Davis Ave S,Renton,WA,98055,King,(425) 251-6677,120,Assisted Living Facility
+No Contract,Yes,2474,45279,Cogir Northgate,11501 15th Ave NE,Seattle,WA,98125,King,(206) 362-7250,85,Assisted Living Facility
+No Contract,Yes,2473,45282,Cogir Queen Anne,805 4th Ave N,Seattle,WA,98109,King,,100,Assisted Living Facility
+No Contract,Yes,958,30277,Covenant Living West,9115 FORTUNA DRIVE,MERCER ISLAND,WA,98040,King,(206) 316-8042,55,Assisted Living Facility
+No Contract,Yes,770,30158,CRISTWOOD RETIREMENT COMMUNITY,19303 Fremont Ave N,Shoreline,WA,98133,King,(206) 546-7573,90,Assisted Living Facility
+No Contract,Yes,516,30068,CROWN HILL GROUP HOME,9523 15TH AVE NW,SEATTLE,WA,98117,King,(206) 782-4293,6,Assisted Living Facility
+No Contract,Yes,924,30249,DAYSTAR AT WESTWOOD,2615 SW BARTON STREET,SEATTLE,WA,98126,King,(206) 937-6122,60,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2140,41674,ELDORADO WEST RETIREMENT COMMUNITY,1010 SW 134th St,Burien,WA,98146,King,(206) 248-1975,80,Assisted Living Facility
+No Contract,Yes,2364,43977,Emerald City Senior Living,9001 LAKE CITY WAY NE,SEATTLE,WA,98115,King,(206) 729-1200,119,Assisted Living Facility
+No Contract,Yes,994,30302,EMERALD HEIGHTS,10901 176TH CIRCLE NE,REDMOND,WA,98052,King,(425) 556-8100,60,Assisted Living Facility
+Assisted Living SOW,Yes,1502,30718,EVERGREEN COURT,900 124TH AVENUE NE,BELLEVUE,WA,98005,King,(425) 455-4333,45,Assisted Living Facility
+No Contract,Yes,1603,30790,EXPRESSIONS AT ENUMCLAW,2454 COLE STREET,ENUMCLAW,WA,98022,King,(360) 825-4565,52,Assisted Living Facility
+No Contract,Yes,1172,30465,FAIRWINDS BRITTANY PARK,17143 133RD AVE NE,WOODINVILLE,WA,98072,King,(425) 402-7100,45,Assisted Living Facility
+No Contract,Yes,1814,30939,FAIRWINDS REDMOND,9988 AVONDALE ROAD NE,REDMOND,WA,98052,King,(425) 558-4700,50,Assisted Living Facility
+No Contract,Yes,2347,42420,FAMILY TO FAMILY SENIOR CARE INC,25633 SE 30th St,Sammamish,WA,98075,King,(425) 644-7321,15,Assisted Living Facility
+No Contract,Yes,2145,41744,FARRINGTON COURT RETIREMENT COMMUNITY,516 Kenosia Ave S,Kent,WA,98030,King,(253) 852-2737,70,Assisted Living Facility
+No Contract,Yes,2471,45238,Fieldstone Memory Care Issaquah,23845 SE Issaquah Fall City Rd,Issaquah,WA,980297514,King,(425) 654-4005,68,Assisted Living Facility
+No Contract,Yes,1795,30924,FIRWOOD,10751 2ND AVE NW,SEATTLE,WA,98177,King,(206) 362-0560,20,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2009,39854,FLORENCE OF SEATTLE ARBOR HEIGHTS,9850 CALIFORNIA AVE SW,SEATTLE,WA,98136,King,(206) 714-3324,12,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2011,39853,FLORENCE OF SEATTLE LLC,8424 16TH AVE SW,SEATTLE,WA,98106,King,(206) 767-3137,21,Assisted Living Facility
+Assisted Living SOW,Yes,1065,30362,FOSS HOME AND VILLAGE,13023 Greenwood Ave N,Seattle,WA,98133,King,(206) 364-1300,60,Assisted Living Facility
+No Contract,Yes,1155,30448,FOUNDATION HOUSE,11301 3RD AVE NE,SEATTLE,WA,98125,King,(206) 361-2758,30,Assisted Living Facility
+Assisted Living SOW,Yes,1568,30765,FOUNTAIN COURT ASSISTED LIVING,24200 224TH AVENUE SE,MAPLE VALLEY,WA,98038,King,(425) 432-3352,65,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",No,864,30210,FRED LIND MANOR,1802 17TH AVE,SEATTLE,WA,98122,King,(206) 324-1632,90,Assisted Living Facility
+No Contract,Yes,1631,30811,Garden Terrace Healthcare Center of Federal Way,491 S 338TH STREET,FEDERAL WAY,WA,98003,King,(253) 661-2226,34,Assisted Living Facility
+No Contract,Yes,2484,45170,Gencare Lifestyle Federal Way at Steel Lake,31200 23rd Avenue South,Federal Way,WA,98003,King,,60,Assisted Living Facility
+No Contract,Yes,1559,30759,GOLDEN HEARTH RESIDENT,15934 NE 139TH PLACE,WOODINVILLE,WA,98072,King,(425) 298-0407,8,Assisted Living Facility
+No Contract,Yes,193,30015,HEARTHSTONE,6720 E Green Lake Way N,Seattle,WA,98103,King,(206) 525-9666,62,Assisted Living Facility
+Assisted Living SOW,Yes,919,30244,HERITAGE HOUSE AT THE MARKET,1533 WESTERN AVENUE,SEATTLE,WA,98101,King,(206) 382-4119,64,Assisted Living Facility
+"Specialized Dementia Care, Assisted Living SOW",Yes,2432,44144,High Point Village,1777 Highpoint St,Enumclaw,WA,98022,King,(360) 825-7780,70,Assisted Living Facility
+No Contract,Yes,978,30290,HIGH WEST RESIDENCE,15035 8th Ave S,Burien,WA,98148,King,(206) 241-3119,16,Assisted Living Facility
+Adult Residential Care,Yes,1278,30558,HILLTOP MANOR BOARDING HOME,1732 16TH AVE,SEATTLE,WA,98122,King,(206) 329-5775,35,Assisted Living Facility
+No Contract,Yes,212,30017,HORIZON HOUSE,900  UNIVERSITY ST,SEATTLE,WA,98101,King,(206) 624-3700,90,Assisted Living Facility
+No Contract,Yes,945,30267,IDA CULVER HOUSE BROADVIEW,12505 GREENWOOD AVE N,SEATTLE,WA,98133,King,(206) 361-1989,90,Assisted Living Facility
+No Contract,Yes,858,30205,Ida Culver House Ravenna,2315 NE 65th St,Seattle,WA,98115,King,(206) 523-7315,42,Assisted Living Facility
+No Contract,Yes,2375,44179,ISLAND HOUSE,7810 SE 30th St,Mercer Island,WA,98040,King,(206) 236-0502,35,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2548,45750,Jefferson House Memory Care Community,12217 NE 128th Street,Kirkland,WA,98034,King,(425) 202-7254,80,Assisted Living Facility
+No Contract,Yes,681,30129,JUDSON PARK RETIREMENT COMMUNITY,23600 MARINE VIEW DR S,DES MOINES,WA,98198,King,(206) 824-4000,52,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2566,46610,Kenmore Senior Living,7221 NE 182nd St,Kenmore,WA,98028,King,(425) 481-4200,100,Assisted Living Facility
+No Contract,Yes,939,30262,KEYSTONE,3512 ALBION PL N,SEATTLE,WA,98103,King,(206) 461-6990,64,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2519,45308,Kin On Assisted Living,5214 42nd Ave S,Seattle ,WA,98118,King,(206) 721-0954,25,Assisted Living Facility
+No Contract,Yes,1052,30349,LAKESHORE,11448 RAINIER AVE S,SEATTLE,WA,98178,King,(206) 772-1200,50,Assisted Living Facility
+Assisted Living SOW,Yes,2482,45241,"Lakeview of Kirkland, Assisted Living",6505 Lakeview Dr NE,Kirkland,WA,98033,King,(425) 803-6911,85,Assisted Living Facility
+No Contract,Yes,2389,44118,Laurel Cove Community,17201 15th Ave NE,Shoreline,WA,98155,King,(206) 364-9336,98,Assisted Living Facility
+Assisted Living SOW,Yes,2493,45367,Legacy House,803 South Lane Street,SEATTLE,WA,98104,King,(206) 292-5187,68,Assisted Living Facility
+No Contract,Yes,2437,44856,Lincoln Park Group Home,6935 Fauntleroy Way SW,Seattle,WA,98136,King,(206) 829-2011,8,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2153,41798,LIVING COURT ASSISTED LIVING COMMUNITY,2229 JENSEN ST,ENUMCLAW,WA,98022,King,(360) 825-0280,65,Assisted Living Facility
+No Contract,Yes,2547,45435,Longhouse Bothell,16605 122nd Place NE,Bothell,WA,98011,King,(206) 453-6748,15,Assisted Living Facility
+No Contract,Yes,2436,44467,Madison House,12215 NE 128th St,Kirkland,WA,98034,King,(425) 821-8210,84,Assisted Living Facility
+No Contract,Yes,2506,45581,Merrill Gardens at Auburn,18 1st St SE,Auburn,WA,98002,King,(253) 258-3263,65,Assisted Living Facility
+No Contract,Yes,2507,45582,Merrill Gardens at Ballard,2418 NW 56th St,Seattle,WA,98107,King,(206) 838-8555,50,Assisted Living Facility
+No Contract,Yes,2406,44198,Merrill Gardens at Burien,15020 5th Ave SW,Burien,WA,98166,King,(206) 539-4995,55,Assisted Living Facility
+No Contract,Yes,2135,41478,MERRILL GARDENS AT KIRKLAND,14 MAIN ST S,KIRKLAND,WA,98033,King,(425) 828-2570,40,Assisted Living Facility
+No Contract,Yes,2131,41472,MERRILL GARDENS AT RENTON CENTRE,104 Burnett Ave S,Renton,WA,98057,King,(425) 235-6400,110,Assisted Living Facility
+No Contract,Yes,2132,41479,MERRILL GARDENS AT THE UNIVERSITY,5300 24TH AVENUE NE,SEATTLE,WA,98105,King,(206) 523-8400,45,Assisted Living Facility
+No Contract,Yes,2034,40058,MIRABELLA,116 FAIRVIEW AVENUE NORTH,SEATTLE,WA,98109,King,(206) 254-1447,63,Assisted Living Facility
+No Contract,Yes,2564,46054,Mirror Lake Village,31000 9th Pl SW,Federal Way,WA,98023,King,(206) 212-4208,120,Assisted Living Facility
+No Contract,Yes,2521,45634,Murano Senior Living,620 Terry Ave,Seattle,WA,98104,King,(206) 202-4620,117,Assisted Living Facility
+Assisted Living SOW,Yes,1186,30479,NIKKEI MANOR,700 6TH AVE S,SEATTLE,WA,98104,King,(206) 726-6460,56,Assisted Living Facility
+Assisted Living SOW,Yes,1688,30841,NORMANDY PARK ASSISTED LIVING,16625 1st Ave S,Burien,WA,98148,King,(206) 241-0821,120,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,145,30008,NORSE HOME,5311 PHINNEY AVE N,SEATTLE,WA,98103,King,(206) 781-7400,86,Assisted Living Facility
+Assisted Living SOW,Yes,980,30291,NORTHAVEN II ASSISTED LIVING,531 NE 112TH ST,SEATTLE,WA,98125,King,(206) 362-8077,40,Assisted Living Facility
+No Contract,Yes,2374,44180,NORTHGATE PLAZA,11030 NE 5TH AVE,SEATTLE,WA,98125,King,(206) 363-6740,60,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2130,41497,Olympic View Assisted Living,21202 INTERNATIONAL BLVD,SEATAC,WA,98198,King,(206) 878-0900,60,Assisted Living Facility
+No Contract,Yes,2551,46134,Overlake Terrace,2956 152nd Ave NE,Redmond,WA,98052,King,(425) 883-0495,150,Assisted Living Facility
+Assisted Living SOW,Yes,1532,30738,PARK PLACE,6900 37TH AVENUE SOUTH,SEATTLE,WA,98118,King,(206) 722-7275,156,Assisted Living Facility
+No Contract,Yes,183,30014,PARK SHORE,1630 43RD AVE E,SEATTLE,WA,98112,King,(206) 329-0770,36,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2550,46403,Parkside Retirement Community,2902 I St NE,Auburn,WA,98002,King,(253) 939-1332,94,Assisted Living Facility
+No Contract,Yes,1117,30411,PARKVIEW GROUP HOME,1114 15TH AVE E,SEATTLE,WA,98112,King,(206) 324-4113,6,Assisted Living Facility
+No Contract,Yes,2121,41028,PATRIOTS GLEN,1640 148TH AVE SE,BELLEVUE,WA,98007,King,(425) 373-1161,82,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",No,2245,42218,PETERS CREEK RETIREMENT COMMUNITY,14431 REDMOND WAY,REDMOND,WA,98052,King,(425) 869-2273,70,Assisted Living Facility
+Assisted Living SOW,Yes,2239,42171,Prestige Senior Living Auburn Meadows,945 22nd St NE,Auburn,WA,98002,King,(253) 333-0171,110,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care",Yes,2401,44067,Provail,1548 NE 175th St,Shoreline ,WA,98155,King,(206) 420-8838,12,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,198,30016,Providence Mount St. Vincent,4831 35th Ave SW,Seattle,WA,98126,King,(206) 937-3700,122,Assisted Living Facility
+No Contract,Yes,2458,45004,Quail Park Memory Care Residences of West Seattle,4515 41st Ave SW,Seattle,WA,98116,King,(206) 633-2273,70,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2367,44048,Queen Anne Manor,100 Crockett St,Seattle,WA,98109,King,(206) 282-5001,103,Assisted Living Facility
+No Contract,Yes,1158,30451,RED OAK RESIDENCE OF NORTH BEND,650 E NORTH BEND WAY,NORTH BEND,WA,98045,King,(425) 888-7108,38,Assisted Living Facility
+No Contract,Yes,2522,45670,Redmond Heights Senior Living,7950 Willows Rd NE,Redmond,WA,98052,King,(425) 885-4157,85,Assisted Living Facility
+Assisted Living SOW,Yes,2018,39737,REGENCY NEWCASTLE,7454 NEWCASTLE GOLF CLUB ROAD,NEWCASTLE,WA,98059,King,(425) 453-1508,85,Assisted Living Facility
+Assisted Living SOW,Yes,1413,30655,RIVERSIDE EAST,10315 EAST RIVERSIDE DR,BOTHELL,WA,98011,King,(425) 481-1976,44,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2539,46130,Ruthaven ALF LLC,15843 SE 256TH ST,COVINGTON,WA,98042,King,(253) 631-5600,14,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2467,45183,Sagebrook Senior Living at Bellevue,15750 NE 15TH ST,BELLEVUE,WA,98008,King,(425) 641-4900,108,Assisted Living Facility
+No Contract,Yes,2573,46453,Silverado - Bellevue,14428 NE 8th St,Bellevue,WA,98007,King,,56,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2137,41498,SPIRITWOOD AT PINE LAKE,3607 228TH AVE SE,ISSAQUAH,WA,98029,King,(425) 313-9100,80,Assisted Living Facility
+No Contract,Yes,1150,30443,SPRING MANOR,1103 16TH AVE,SEATTLE,WA,98122,King,(206) 324-9021,57,Assisted Living Facility
+No Contract,Yes,1157,30450,STAFFORD SUITES,112 KENNEBECK AVE N,KENT,WA,98030,King,(253) 850-0333,75,Assisted Living Facility
+No Contract,Yes,1519,30728,STILLWATER HOUSE,8705 166TH AVE NE,REDMOND,WA,98052,King,(425) 653-5080,16,Assisted Living Facility
+No Contract,Yes,2163,41860,SUNRISE OF BELLEVUE,15928 NE 8TH ST,BELLEVUE,WA,98008,King,(425) 401-5152,90,Assisted Living Facility
+No Contract,Yes,2342,43883,Sunrise of Bothell,10605 NE 185th St,Bothell,WA,98011,King,(425) 487-3245,50,Assisted Living Facility
+No Contract,Yes,2543,45621,Sunrise of Issaquah,23599 SE Issaquah Fall City Rd,Issaquah,WA,98029,King,(425) 945-0006,107,Assisted Living Facility
+No Contract,Yes,2164,41858,SUNRISE OF MERCER ISLAND,2959 76TH AVENUE SE,MERCER ISLAND,WA,98040,King,(206) 232-6565,64,Assisted Living Facility
+No Contract,Yes,2344,43885,Sunrise of Northgate,11039 17th Ave NE,Seattle,WA,98125,King,(206) 440-1700,49,Assisted Living Facility
+No Contract,Yes,2464,45046,Sunrise of Redmond,15241 NE 20TH ST,BELLEVUE,WA,98007,King,,90,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,1089,30383,TERRY HOME,138 3RD AVE SW,PACIFIC,WA,98047,King,(253) 288-0135,10,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care",Yes,2205,41915,TERRY HOME AUBURN,727 A STREET NE,AUBURN,WA,98002,King,(253) 737-4546,16,Assisted Living Facility
+No Contract,Yes,2457,45049,The Bellettini,1115 108th Ave NE,Bellevue,WA,98004,King,,50,Assisted Living Facility
+Assisted Living SOW,Yes,2056,40599,THE CANNON HOUSE,113 23rd AVENUE SOUTH,SEATTLE,WA,98144,King,(206) 709-1777,91,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2496,45166,The Cottages of Renton,17033 108th Ave SE,Renton,WA,98055,King,(425) 528-7070,60,Assisted Living Facility
+Assisted Living SOW,Yes,456,30059,THE GARDENS AT JUANITA BAY,11853 97th Ave NE,Kirkland,WA,98034,King,(425) 823-0410,48,Assisted Living Facility
+No Contract,Yes,1604,30791,THE GARDENS AT TOWN SQUARE,933 111TH AVE NE,BELLEVUE,WA,98004,King,(425) 688-1900,80,Assisted Living Facility
+No Contract,Yes,1994,39575,THE INN AT ARBOR VILLAGE,24205 116TH AVE SE,KENT,WA,98030,King,(253) 893-0340,14,Assisted Living Facility
+No Contract,Yes,128,30005,THE KENNEY,7125 Fauntleroy Way SW,Seattle,WA,98136,King,(206) 937-2800,98,Assisted Living Facility
+No Contract,Yes,2037,40068,THE LODGE AT ARBOR VILLAGE,24004 114TH PLACE SE,KENT,WA,98030,King,(253) 856-1600,60,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1798,30926,THE LODGE AT EAGLE RIDGE,1600 S EAGLE RIDGE Dr S,Renton,WA,98055,King,(425) 793-8080,75,Assisted Living Facility
+No Contract,Yes,2365,43751,The Meridian at Stone Creek,1111 S 376th St,Milton,WA,98354,King,(253) 661-3651,188,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1435,30671,THE SUMMIT AT FIRST HILL,1200 UNIVERSITY ST SUITE 100,SEATTLE,WA,98101,King,(206) 652-4444,60,Assisted Living Facility
+No Contract,Yes,2054,40323,THE TERRACES AT SKYLINE,715 9TH AVE,SEATTLE,WA,98104,King,(206) 682-3200,86,Assisted Living Facility
+No Contract,Yes,523,30070,TRANSITIONAL RESOURCES,2970 SW AVALON WAY,SEATTLE,WA,98126,King,(206) 883-2050,16,Assisted Living Facility
+Assisted Living SOW,Yes,2420,44312,"Truewood by Merrill, First Hill",1421 MINOR AVE,SEATTLE,WA,98101,King,(206) 624-7637,75,Assisted Living Facility
+No Contract,Yes,1565,30763,UNIVERSITY HOUSE AT ISSAQUAH,22975 SE BLACK NUGGET ROAD,ISSAQUAH,WA,98029,King,(425) 557-4200,55,Assisted Living Facility
+No Contract,Yes,1170,30463,UNIVERSITY HOUSE AT WALLINGFORD,4400 STONE WAY N,SEATTLE,WA,98103,King,(206) 545-8400,25,Assisted Living Facility
+Assisted Living SOW,Yes,1561,30760,VASHON COMMUNITY CARE CENTER,15333 VASHON HWY SW,VASHON,WA,98070,King,(206) 567-4421,61,Assisted Living Facility
+No Contract,Yes,2554,46010,Village Concepts of Fairwood,17010 140th Ave SE,Renton,WA,98058,King,(888) 548-6609,60,Assisted Living Facility
+No Contract,Yes,1159,30452,VILLAGE GREEN RETIREMENT CAMPUS,35419 1ST AVE S,FEDERAL WAY,WA,98003,King,(253) 838-3700,65,Assisted Living Facility
+Assisted Living SOW,Yes,1734,30878,VINEYARD PARK AT BOTHELL LANDING,10519 EAST RIVERSIDE DRIVE,BOTHELL,WA,98011,King,(425) 485-8900,75,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1356,30619,"WEATHERLY INN AT LAKE MERIDIAN, THE",15101 SE 272ND ST,KENT,WA,98042,King,(253) 630-7496,69,Assisted Living Facility
+No Contract,Yes,1824,30947,WESLEY HOMES DES MOINES ASSISTED LIVING,816 S 216TH ST,DES MOINES,WA,981980000,King,(206) 870-8743,43,Assisted Living Facility
+No Contract,Yes,1964,39129,Wesley Homes Lea Hill LLC,32049 109th Place SE,Auburn,WA,98092,King,(253) 804-5644,20,Assisted Living Facility
+No Contract,Yes,1947,39085,Ashley Gardens of Bremerton,3231 Pine Rd NE,Bremerton,WA,98310,Kitsap,(360) 478-7277,40,Assisted Living Facility
+Assisted Living SOW,Yes,2568,46734,Bay Pointe Assisted Living,966 Oyster Bay Court,Bremerton,WA,98312,Kitsap,(360) 373-9904,75,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,1983,39208,BAY VISTA COMMONS ASSISTED LIVING COMMUNITY,191 Russell Road,Bremerton,WA,98312,Kitsap,(360) 377-8300,76,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2274,42400,Brookdale Montclair Poulsbo,1250 NE Lincoln Rd,Poulsbo,WA,98370,Kitsap,(360) 697-2223,122,Assisted Living Facility
+No Contract,Yes,2147,41759,Clearbrook Inn Living Center,12295 Schold Rd NW,Silverdale,WA,98383,Kitsap,(360) 698-6727,53,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1041,30339,COURTYARD AT CRISTA SHORES,1600 NW CRISTA SHORES LANE,SILVERDALE,WA,98383,Kitsap,(360) 698-0900,60,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1845,30966,CYPRESS GARDENS RETIREMENT CENTER,3500 9TH ST,BREMERTON,WA,98312,Kitsap,(360) 479-4130,65,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2396,44318,Laurel Glen at Bremerton Senior Living,2707 Clare Ave,Bremerton,WA,983103337,Kitsap,(360) 377-1717,88,Assisted Living Facility
+No Contract,Yes,2182,42040,Liberty Place,155 Lippert Dr W,Port Orchard,WA,98366,Kitsap,(360) 876-0980,39,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1834,30956,LIBERTY SHORES ASSISTED LIVING,19360 VIKING AVE NW,POULSBO,WA,98370,Kitsap,(360) 779-5533,112,Assisted Living Facility
+No Contract,Yes,922,30247,MADISON AVENUE RETIREMENT CENTER,285 MADISON AVENUE SOUTH,BAINBRIDGE ISLAND,WA,98110,Kitsap,(206) 842-3694,30,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2210,41855,"Madrona Assisted Living, LLC",8800 Madison Ave N,Bainbridge Island,WA,98110,Kitsap,(206) 317-6000,81,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2570,46737,Marine Courte Memory Care,948 Oyster Bay Court,Bremerton,WA,98312,Kitsap,(360) 373-9904,32,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2394,44308,Orchard Pointe Senior Alzheimer Community,300 S Kitsap Blvd,Port Orchard,WA,98366,Kitsap,(360) 874-7400,45,Assisted Living Facility
+Assisted Living SOW,Yes,1810,30935,PARK VISTA RETIREMENT& ASSISTED LIVING COMMUNITY,2944 SE LUND AVE,PORT ORCHARD,WA,98366,Kitsap,(360) 871-2323,109,Assisted Living Facility
+No Contract,Yes,1274,30554,STAFFORD SUITES - PORT ORCHARD,1761 POTTERY AVENUE,PORT ORCHARD,WA,98366,Kitsap,(360) 874-1212,60,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2433,44192,The Arbor at Bremerton,3510 9th Street,Bremerton,WA,98312,Kitsap,(360) 525-9000,64,Assisted Living Facility
+No Contract,Yes,2246,42211,The Cottage,3210 Rickey Rd NE,Bremerton,WA,98310,Kitsap,(360) 373-0553,43,Assisted Living Facility
+No Contract,Yes,2231,42177,The Ridge an Encore Community,1501 NW Tower View Cir,Silverdale,WA,98383,Kitsap,(360) 697-4488,54,Assisted Living Facility
+No Contract,Yes,1253,30536,WYATT HOUSE RETIREMENT CENTER,186 WYATT WAY NW,BAINBRIDGE ISLAND,WA,98110,Kitsap,(206) 780-3646,32,Assisted Living Facility
+No Contract,Yes,2186,42044,Meadows Place,1008 East Mountain View Ave,Ellensburg,WA,98926,Kittitas,(509) 925-4484,36,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2376,44097,Pacifica Senior Living Ellensburg,818 E Mountain View Ave,Ellensburg,WA,98926,Kittitas,(509) 925-1220,80,Assisted Living Facility
+Assisted Living SOW,Yes,2392,44290,Prestige Senior Living at Hearthstone,802 East Mountain View Ave,Ellensburg,WA,98926,Kittitas,(509) 925-3099,69,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,783,30163,CHEHALIS WEST RETIREMENT CENTER INC,478 NW QUINCY PLACE,CHEHALIS,WA,98532,Lewis,(360) 748-9911,66,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2565,46460,Cooks Hill Manor,2010 Cooks Hill Rd,Centralia,WA,98531,Lewis,(360) 330-2010,70,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2010,39836,HERITAGE HOUSE MORTON,860 W Main,Morton,WA,98356,Lewis,(360) 496-6699,44,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1428,30665,SHARON CARE CENTER ASSISTED LIVING,1509 HARRISON AVE,CENTRALIA,WA,98531,Lewis,(360) 736-0112,72,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1061,30358,STILLWATERS COLONIAL RESIDENCE,2700 COLONIAL DR,CENTRALIA,WA,98531,Lewis,(360) 736-1551,81,Assisted Living Facility
+Assisted Living SOW,Yes,2512,45644,Woodland Village,2100 SW Woodland Circle,Chehalis,WA,98532,Lewis,(360) 748-0095,40,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1194,30487,QUAIL COURT,506 E AMENDE DR,ODESSA,WA,99159,Lincoln,(509) 982-2611,12,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2377,44091,Vista Manor,700 SE Brace St,Wilbur,WA,99185,Lincoln,(509) 647-2211,16,Assisted Living Facility
+"Specialized Dementia Care, Assisted Living SOW",Yes,2141,41738,Alpine Way Retirement Apartments,900 W Alpine Way,Shelton,WA,98584,Mason,(360) 426-2600,103,Assisted Living Facility
+No Contract,Yes,1953,39001,Haven in Allyn LLC,180 Wheelwright Street,Allyn,WA,98524,Mason,(360) 277-0636,16,Assisted Living Facility
+Assisted Living SOW,Yes,1447,30680,MAPLE GLEN ASSISTED LIVING COMMUNITY,1700 NORTH 13TH LOOP ROAD,SHELTON,WA,98584,Mason,(360) 427-0300,64,Assisted Living Facility
+Assisted Living SOW,Yes,1277,30557,APPLE SPRINGS RETIREMENT AND ASSISTED LIVING RESIDENCE,1001 SENNA STREET,OMAK,WA,98841,Okanogan,(509) 826-3590,60,Assisted Living Facility
+Assisted Living SOW,Yes,1970,39481,GOLDEN SANDS AT KLIPSAN BEACH,21608 O LANE,OCEAN PARK,WA,98640,Pacific,(360) 665-0190,43,Assisted Living Facility
+"Enhanced Adult Res Care Conversion Pilot, Assisted Living SOW",Yes,1613,30798,RIVER MOUNTAIN VILLAGE ASSISTED LIVING,608 W 2nd St,Newport,WA,99156,Pend Oreille,(509) 447-2903,99,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2552,46368,6th Avenue Senior Living LLC,610 N FIFE ST,TACOMA,WA,98406,Pierce,(253) 272-8600,110,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2531,45730,"Alpha Cottage, LLC",10816 18th Ave E,Tacoma,WA,98445,Pierce,(253) 537-5395,46,Assisted Living Facility
+No Contract,Yes,2555,45928,Bonaventure of Puyallup,14503 Meridian Avenue E,Puyallup,WA,98375,Pierce,(253) 387-8166,109,Assisted Living Facility
+Assisted Living SOW,Yes,2427,44684,Bridgeport Place,5250 Bridgeport Way W,University Place,WA,98467,Pierce,(253) 565-1960,77,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1701,30853,Brookdale Allenmore AL (WA),3615 S. 23RD STREET,TACOMA,WA,98405,Pierce,(253) 759-7770,80,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2366,43928,Brookdale Courtyard Puyallup,4610 6TH STREET PLACE SE,PUYALLUP,WA,98374,Pierce,(253) 841-9722,120,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,1912,30950,Brookdale Harbor Bay,9324 NORTH HARBORVIEW DR,GIG HARBOR,WA,98332,Pierce,(253) 858-7790,44,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1702,30854,Brookdale Puyallup South,8811 176TH ST EAST,PUYALLUP,WA,98375,Pierce,(253) 445-1300,64,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,1063,30360,CASCADE PARK GARDENS,4347 S UNION AVE,TACOMA,WA,98409,Pierce,(253) 475-3702,85,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,1251,30535,CASCADE PARK VISTA,242 ST HELENS AVE S,TACOMA,WA,98402,Pierce,(253) 627-3833,117,Assisted Living Facility
+Assisted Living SOW,Yes,1951,38770,Cedar Ridge Retirement & Assisted Living Community,9515 198th Avenue East,Bonney Lake,WA,98391,Pierce,(253) 299-6461,70,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2120,41029,CHARLTON PLACE,9723 South Steele St,Tacoma,WA,98444,Pierce,(253) 589-1834,105,Assisted Living Facility
+No Contract,Yes,2578,46670,Deer Ridge Memory Care Community,3901 5th St SE,Puyallup,WA,98374,Pierce,(253) 446-7892,70,Assisted Living Facility
+Assisted Living SOW,Yes,1187,30480,eliseo,1301 N HIGHLANDS PARKWAY,TACOMA,WA,98406,Pierce,(253) 752-7112,61,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2004,39721,Emerald Care Center Inc,23809 46th Ave E,Spanaway,WA,98387,Pierce,(253) 847-9452,14,Assisted Living Facility
+No Contract,Yes,2561,46229,Fieldstone Memory Care of Puyallup,2121 S Meridian,Puyallup,WA,98371,Pierce,(253) 904-3434,66,Assisted Living Facility
+No Contract,Yes,61,30003,FRANKE TOBEY JONES,5340 N Bristol St,Tacoma,WA,98407,Pierce,(253) 752-6621,80,Assisted Living Facility
+No Contract,Yes,2189,42043,Franklin Place,5713 Parker Rd E,Sumner,WA,98390,Pierce,(253) 891-3569,51,Assisted Living Facility
+No Contract,Yes,2557,45779,GenCare Lifestyle Tacoma at Point Ruston,4970 Main St,Tacoma,WA,98407,Pierce,(253) 941-5859,55,Assisted Living Facility
+Assisted Living SOW,Yes,2477,45239,"Gig Harbor Court, Independent Living & Assisted Living",3213 45th Street Ct NW,Gig Harbor,WA,98335,Pierce,(253) 858-5300,100,Assisted Living Facility
+No Contract,Yes,1809,30934,HARBOR PLACE AT COTTESMORE,1016 29TH STREET NW,GIG HARBOR,WA,98335,Pierce,(253) 853-3354,90,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2142,41740,Hearthside Manor,3615 Drexler Dr W,University Place,WA,98466,Pierce,(253) 460-3330,36,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2012,39835,HERITAGE HOUSE BUCKLEY,28833 State Route 410 E,Buckley,WA,98321,Pierce,(360) 829-5292,85,Assisted Living Facility
+No Contract,Yes,2425,44407,Heron's Key,4340 Borgen Blvd NW,Gig Harbor,WA,98332,Pierce,(253) 313-0800,51,Assisted Living Facility
+Adult Residential Care,Yes,2057,40646,Hope Guest Home,915 S 7th St,Tacoma,WA,98405,Pierce,(253) 627-3620,18,Assisted Living Facility
+Assisted Living SOW,Yes,2466,45111,King's Manor Senior Living Community,8609 Portland Ave E,Tacoma,WA,98445,Pierce,(253) 538-7222,76,Assisted Living Facility
+No Contract,Yes,1931,38838,KLEINER GROUP HOME,6415 6th Ave,Tacoma,WA,98406,Pierce,(253) 565-0588,10,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1949,39128,Living Hope Care Center,402 NORTH J ST,TACOMA,WA,98403,Pierce,(253) 572-7977,59,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2575,46648,"Maple Creek Venture, LLC",10420 Gravelly Lake Dr SW,Lakewood,WA,98499,Pierce,(253) 588-0227,75,Assisted Living Facility
+Adult Residential Care,Yes,800,30172,MCGEE GUEST HOME,21520 82ND AVE E,SPANAWAY,WA,98387,Pierce,(253) 847-2292,64,Assisted Living Facility
+No Contract,Yes,2421,44557,Memory Haven Sumner,5107 Parker Rd E,Sumner,WA,98390,Pierce,(253) 750-0552,39,Assisted Living Facility
+No Contract,Yes,2134,41477,MERRILL GARDENS AT TACOMA,7290 Rosemount Cir,Tacoma,WA,98465,Pierce,(253) 460-5851,65,Assisted Living Facility
+Assisted Living SOW,Yes,1073,30368,MILL RIDGE VILLAGE,607 28TH AVE,MILTON,WA,98354,Pierce,(253) 925-9200,45,Assisted Living Facility
+No Contract,Yes,2385,44285,Narrows Glen,802 N Laurel Ln,Tacoma,WA,98406,Pierce,(253) 564-4770,155,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1610,30795,"OLYMPIC ALZHEIMER'S RESIDENCE, A PRESTIGE EXPRESSIONS COMMUN",3025 14TH AVE NW,GIG HARBOR,WA,98335,Pierce,(253) 851-5306,60,Assisted Living Facility
+No Contract,Yes,544,30079,P A M  GROUP HOME,619 7th Ave SE,Puyallup,WA,98372,Pierce,(253) 845-8871,9,Assisted Living Facility
+Adult Residential Care,Yes,1141,30434,PACIFIC AVENUE RESIDENTIAL CARE,5621 PACIFIC AVE,TACOMA,WA,98408,Pierce,(253) 473-3577,16,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2450,44773,Passionate Care Center,321 S 116th St,Tacoma,WA,98444,Pierce,(253) 537-3022,23,Assisted Living Facility
+No Contract,Yes,1762,30895,PATRIOTS LANDING OPERATIONS LLC,1600 MARSHALL CIRCLE,DUPONT,WA,98327,Pierce,(253) 964-4900,157,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,1952,38917,PEOPLES RETIREMENT COMMUNITY,1720 E 67TH ST,TACOMA,WA,98404,Pierce,(253) 474-1741,110,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1293,30568,PIONEER PLACE ALZHEIMER RESIDENCE OF TACOMA,11519 24th Ave E,Tacoma,WA,98445,Pierce,(253) 539-3410,60,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2490,45105,Puyallup Valley Enhanced Residential Care Inc,723 2nd St NW,Puyallup,WA,98371,Pierce,(253) 845-5398,53,Assisted Living Facility
+No Contract,Yes,1793,30922,SILVER CREEK RETIREMENT & ASSISTED LIVING COMMUNITY,17607 91ST AVENUE E,PUYALLUP,WA,98375,Pierce,(253) 875-8644,104,Assisted Living Facility
+Assisted Living SOW,Yes,2382,44145,SOUND VISTA VILLAGE,6633 McDonald Ave,Gig Harbor,WA,98335,Pierce,(253) 851-9929,36,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2160,41821,"Spring Ridge Retirement, LLC",6856 E Portland Ave,Tacoma,WA,98404,Pierce,(253) 474-1093,75,Assisted Living Facility
+No Contract,Yes,1375,30633,STAFFORD SUITES,15519 62nd Street Ct E,Sumner,WA,98390,Pierce,(253) 862-1818,77,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2360,43894,The Cottages at Edgewood,2510 Meridian Ave East,Edgewood,WA,98372,Pierce,(253) 881-1435,60,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2418,44294,The Cottages at University Place,5417 64th St W,University Place,WA,98467,Pierce,(253) 301-3817,60,Assisted Living Facility
+Assisted Living SOW,Yes,2064,40085,The Lodge at Mallard's Landing,7083 Wagner Way NW,Gig Harbor,WA,98335,Pierce,(253) 858-4990,136,Assisted Living Facility
+No Contract,Yes,2483,45243,"The Rivers at Puyallup, Independent Living & Assisted Living",123 4th Ave NW,Puyallup,WA,98371,Pierce,(425) 803-6911,120,Assisted Living Facility
+"Enhanced Adult Residential Care, Adult Residential Care",Yes,2558,46607,The Village Retirement and Assisted Living,4707 S Orchard St,Tacoma,WA,98466,Pierce,(253) 475-4707,110,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care",Yes,2518,45399,Trouves St Ann's Inc,6602 S Alaska St,Tacoma,WA,98408,Pierce,(253) 289-5050,15,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2553,45903,Vineyard Park of Puyallup,1813 S Meridian St,Puyallup,WA,98371,Pierce,(206) 232-9680,53,Assisted Living Facility
+Adult Residential Care,Yes,1014,30318,WALLER ROAD HOME,4710 WALLER RD E,TACOMA,WA,98443,Pierce,(253) 922-2550,9,Assisted Living Facility
+No Contract,Yes,1577,30773,WEATHERLY INN,6016 N Highlands Parkway,Tacoma,WA,98406,Pierce,(253) 752-8550,140,Assisted Living Facility
+No Contract,Yes,2520,45735,Wesley Homes Bradley Park LLC,707 39th Ave SE,Puyallup,WA,98374,Pierce,(253) 435-8100,23,Assisted Living Facility
+No Contract,Yes,1996,39441,VILLAGE AT THE HARBOUR,543 SPRING ST,FRIDAY HARBOR,WA,98250,San Juan,(360) 378-7144,36,Assisted Living Facility
+No Contract,Yes,1948,39086,Ashley Gardens of Mt Vernon,3807 E College Way,Mount Vernon,WA,98273,Skagit,(360) 419-9422,40,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2559,46461,Birchview Memory Care Community,925 Dunlop St,Sedro Woolley,WA,98284,Skagit,(360) 856-1911,61,Assisted Living Facility
+No Contract,Yes,1190,30483,CHANDLER'S SQUARE,1300 O AVE,ANACORTES,WA,98221,Skagit,(360) 293-1300,37,Assisted Living Facility
+Assisted Living SOW,Yes,1020,30323,COUNTRY MEADOW VILLAGE,1501 COLLINS RD,SEDRO WOOLLEY,WA,98284,Skagit,(360) 856-0404,50,Assisted Living Facility
+Assisted Living SOW,Yes,2316,43652,Creekside Continuing Care Community,400 Gilkey Rd,Burlington,WA,98233,Skagit,(360) 755-5550,101,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2527,46032,Cypress Assisted Living Inc,911 21st St,Anacortes,WA,98221,Skagit,(360) 293-7222,48,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2508,45560,Homeplace Respite,112 N SKAGIT ST,BURLINGTON,WA,98233,Skagit,(360) 755-7000,16,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2510,45558,Homeplace Special Care Center at Burlington,210 N SKAGIT ST,BURLINGTON,WA,98233,Skagit,(360) 755-7000,46,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2254,42272,La Conner Retirement Inn,204 N 1st St,La Conner,WA,98257,Skagit,(360) 466-5700,60,Assisted Living Facility
+No Contract,Yes,2204,41953,LIGHTHOUSE MEMORY CARE,3502 K AVENUE,ANACORTES,WA,98221,Skagit,(360) 420-9801,39,Assisted Living Facility
+No Contract,Yes,2328,42538,Mountain Glen Retirement Community,1810 E Division St,Mount Vernon,WA,982744633,Skagit,(360) 424-7900,83,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2172,42004,OVENELL HOME ALF INC,625 E Washington Ave,Burlington,WA,98233,Skagit,(360) 755-9100,31,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2528,46031,Rosario Assisted Living,1105 27th St,Anacortes,WA,98221,Skagit,(360) 293-5752,94,Assisted Living Facility
+No Contract,Yes,1826,30949,THE BRIDGE ASSISTED LIVING AT MOUNT VERNON,301 S Laventure Rd,Mount Vernon,WA,98274,Skagit,(360) 416-0400,50,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2500,45559,Where The Heart Is,410 S NORRIS ST,BURLINGTON,WA,98233,Skagit,(360) 755-8007,84,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1254,30537,ROCK COVE ASSISTED LIVING,986 SW ROCK CREEK DRIVE,STEVENSON,WA,98648,Skamania,(509) 427-7272,36,Assisted Living Facility
+No Contract,Yes,2345,42500,Aegis Senior Living of Lynnwood,18700 44th Ave W,Lynnwood,WA,98037,Snohomish,(425) 712-9999,52,Assisted Living Facility
+No Contract,Yes,2126,41245,ASHLEY POINTE,11117 20TH ST NE,LAKE STEVENS,WA,98258,Snohomish,(425) 397-7500,40,Assisted Living Facility
+Assisted Living SOW,Yes,1346,30611,BETHANY AT SILVER CREST,2131 LAKE HEIGHTS DR,EVERETT,WA,98208,Snohomish,(425) 385-2335,58,Assisted Living Facility
+No Contract,Yes,1700,30852,Brookdale Alderwood,18706 36th AVENUE WEST,LYNNWOOD,WA,98037,Snohomish,(425) 774-3300,60,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2278,42382,Brookdale Arbor Place ,12806 BOTHELL EVERETT HWY,EVERETT,WA,98208,Snohomish,(425) 338-3227,115,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2285,42361,Brookdale Everett,11333 3RD PL W,EVERETT,WA,98204,Snohomish,(425) 347-0372,80,Assisted Living Facility
+No Contract,Yes,2284,42374,Brookdale Monroe,15465 179TH AVE SE,MONROE,WA,98272,Snohomish,(360) 637-3927,82,Assisted Living Facility
+No Contract,Yes,1703,30855,Brookdale Silver Lake,2015 LAKE HEIGHTS DR,EVERETT,WA,982086034,Snohomish,(425) 337-6336,60,Assisted Living Facility
+No Contract,Yes,2276,42395,Brookdale Stanwood,7212 265TH ST NW,STANWOOD,WA,98292,Snohomish,(360) 637-3924,80,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2312,42466,CASCADE VALLEY SENIOR LIVING,8400 207TH PL NE,ARLINGTON,WA,98223,Snohomish,(360) 435-3222,80,Assisted Living Facility
+No Contract,Yes,2453,44572,Cedar Creek Memory Care Community,21006 72nd Ave W,Edmonds,WA,98026,Snohomish,(425) 678-8001,80,Assisted Living Facility
+No Contract,Yes,2229,41981,CHATEAU PACIFIC RETIREMENT COMMUNITY,3333 148TH ST SW,LYNNWOOD,WA,98087,Snohomish,(425) 787-9693,138,Assisted Living Facility
+No Contract,Yes,2475,45280,Cogir Mill Creek,14905 Bothell Everett Highway,Mill Creek,WA,98012,Snohomish,,80,Assisted Living Facility
+No Contract,Yes,2574,46736,Edmonds Landing Assisted Living Community,180 2nd Ave S,Edmonds,WA,98020,Snohomish,(425) 744-1181,83,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care",Yes,2423,44415,Everett Heritage Court,4230 Colby Ave,Everett,WA,98203,Snohomish,(425) 259-7200,47,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1921,38698,EVERETT PLAZA,2204 12th St,Everett,WA,98201,Snohomish,(425) 258-6408,105,Assisted Living Facility
+No Contract,Yes,1342,30609,FAIRWINDS - BRIGHTON COURT,6520 196th St SW,LYNNWOOD,WA,98036,Snohomish,(425) 775-4440,65,Assisted Living Facility
+No Contract,Yes,2538,46059,Fieldstone Memory Care of Marysville,11015 State Ave,Marysville,WA,98271,Snohomish,(360) 244-4180,70,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,977,30289,GRANDVIEW VILLAGE RETIREMENT COMMUNITY,5800 64TH ST NE,MARYSVILLE,WA,98270,Snohomish,(360) 653-2223,35,Assisted Living Facility
+No Contract,Yes,2362,44003,Harbour Pointe Retirement & Assisted Living Center,10200 HARBOUR PLACE,MUKILTEO,WA,98275,Snohomish,(425) 493-8555,136,Assisted Living Facility
+Assisted Living SOW,Yes,569,30086,Josephine Caring Community,9901 272nd Pl NW,Stanwood,WA,98292,Snohomish,(360) 629-2126,65,Assisted Living Facility
+No Contract,Yes,2447,44889,MorningStar Senior Living at Silver Lake,520 112th St SW,Everett,WA,98204,Snohomish,(425) 906-3818,52,Assisted Living Facility
+No Contract,Yes,2373,44178,Mountlake Terrace Plaza,23303 58th Ave W,Mountlake Terrace,WA,98043,Snohomish,(425) 672-4673,55,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2426,44561,Mukilteo Memory Care,4686 Pointes Dr,Mukilteo,WA,98275,Snohomish,(425) 267-0808,60,Assisted Living Facility
+Assisted Living SOW,Yes,1995,39233,NORTH CREEK RETIREMENT & ASSISTED LIVING COMMUNITY,1907 201ST PLACE SE,BOTHELL,WA,98012,Snohomish,(425) 483-8927,102,Assisted Living Facility
+Assisted Living SOW,Yes,1712,30863,OLYMPIC PLACE RETIREMENT AND ASSISTED LIVING COMMUNITY,20909 Olympic Pl NE,Arlington,WA,98223,Snohomish,(360) 435-8440,81,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2371,44099,Pacifica Senior Living Lynnwood,18625 60th Ave W,Lynnwood,WA,98037,Snohomish,(425) 771-7700,72,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2372,44098,Pacifica Senior Living Snohomish,1124 Pine Ave,Snohomish,WA,98290,Snohomish,(360) 568-1900,84,Assisted Living Facility
+No Contract,Yes,2416,44376,Quail Park at Lynnwood,4015 164th St SW,Lynnwood,WA,98087,Snohomish,(425) 640-8529,227,Assisted Living Facility
+No Contract,Yes,1379,30637,ROSEWOOD COURTE MEMORY CARE COMMUNITY,728 EDMONDS WAY,EDMONDS,WA,98020,Snohomish,(425) 673-2875,46,Assisted Living Facility
+No Contract,Yes,2203,41939,SCRIBER GARDENS LLC,6024 200TH ST SW,LYNNWOOD,WA,98036,Snohomish,(425) 673-7111,39,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2253,42265,South Pointe Assisted Living,10330 4th Ave W,Everett,WA,98204,Snohomish,(425) 513-5645,38,Assisted Living Facility
+No Contract,Yes,2162,41859,SUNRISE OF EDMONDS,750 EDMONDS WAY,EDMONDS,WA,98020,Snohomish,(425) 673-9700,76,Assisted Living Facility
+No Contract,Yes,2343,43884,Sunrise of Lynnwood,21500 72nd Ave W,Edmonds,WA,98026,Snohomish,(425) 776-3600,70,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,792,30170,SUNRISE VIEW RETIREMENT VILLA,2520 Madison St,Everett,WA,98203,Snohomish,(425) 353-4040,65,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2149,41525,THE COTTAGES AT MARYSVILLE,1216 GROVE STREET,MARYSVILLE,WA,98270,Snohomish,(360) 322-7561,50,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,1977,39366,THE COTTAGES AT MILL CREEK,13200  10TH DRIVE SE,MILL CREEK,WA,98012,Snohomish,(425) 379-8276,40,Assisted Living Facility
+No Contract,Yes,2476,45244,"The Gardens at Marysville, Independent Living & Assisted Liv",9802 48th Dr NE,Marysville,WA,98270,Snohomish,(360) 659-1279,80,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2411,43944,The Legacy of Bothell,305 240th St SW,Bothell,WA,98021,Snohomish,(425) 761-7739,15,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2569,46739,The Terrace at Beverly Lake,524 75th St SE,Everett,WA,98203,Snohomish,(425) 348-8800,60,Assisted Living Facility
+No Contract,Yes,2499,44646,The Village at Granite Falls,302 N Alder Ave,Granite Falls,WA,98252,Snohomish,(360) 691-1777,30,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,956,30275,TULALIP TRIBES BOARDING HOME,7300 Totem Beach Rd,Tulalip,WA,98271,Snohomish,(360) 716-4675,9,Assisted Living Facility
+"Specialized Dementia Care, Assisted Living SOW",Yes,2335,42285,Vineyard Park at Mountlake Terrace,23008 56th Ave W,Mountlake Terrace,WA,98043,Snohomish,(425) 678-6008,123,Assisted Living Facility
+No Contract,Yes,362,30039,WARM BEACH HEALTH CARE CENTER,20420 Marine Dr NW,Stanwood,WA,98292,Snohomish,(360) 652-7585,36,Assisted Living Facility
+No Contract,Yes,1535,30740,WASHINGTON OAKES,1717 ROCKEFELLER AVENUE,EVERETT,WA,98201,Snohomish,(425) 339-3300,40,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2307,42323,Aspen Quality Care Inc,9626 N Colfax Rd,Spokane,WA,99218,Spokane,(509) 464-9486,21,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2461,45019,Avamere at South Hill,3708 E 57th Ave,Spokane,WA,99223,Spokane,(509) 443-0401,95,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1552,30753,BETHANY PLACE INC,9111 E Upriver Dr,Spokane,WA,99206,Spokane,(509) 924-0580,70,Assisted Living Facility
+Assisted Living SOW,Yes,841,30194,BRIGHTON COURT,1308 N Vercler Rd,Spokane Valley,WA,99216,Spokane,(509) 926-4533,55,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1698,30850,Brookdale Nine Mile,5329 WEST RIFLE CLUB COURT,SPOKANE,WA,99208,Spokane,(509) 323-1400,60,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,1759,30892,Brookdale Park Place,601 S Park Rd,Spokane Valley,WA,99212,Spokane,(509) 922-7224,110,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care",Yes,2530,45056,Cataldo Community Residental Inc,11916 E Cataldo Ave,Spokane Valley,WA,99206,Spokane,(509) 939-7218,59,Assisted Living Facility
+Assisted Living SOW,Yes,1326,30594,CHENEY ASSISTED LIVING,2229 N 6TH ST,CHENEY,WA,99004,Spokane,(509) 235-6196,32,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2572,46837,Cherrywood Place,100 E Dalke Ave,Spokane,WA,99208,Spokane,(509) 484-3553,52,Assisted Living Facility
+Assisted Living SOW,Yes,1029,30329,COLONIAL COURT,12016 E Cataldo Ave,Spokane Valley,WA,99206,Spokane,(509) 921-5473,51,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care",Yes,2243,42116,Cornerstone Court LLC,12322 W Ruby Rd,Spokane,WA,99218,Spokane,(509) 467-2688,40,Assisted Living Facility
+No Contract,Yes,1992,38757,Evergreen Fountains Senior Living Community,1201 North Evergreen Road,Spokane Valley,WA,99216,Spokane,(509) 922-3100,124,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2138,41463,EVERGREEN RESIDENTIAL CARE,14120 E 3RD,SPOKANE VALLEY,WA,99037,Spokane,(509) 999-2538,47,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2128,41050,FAIRFIELD CARE,503 SOUTH HILLTOP LANE,FAIRFIELD,WA,99012,Spokane,(509) 283-2232,50,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW",Yes,1146,30439,FAIRVIEW ASSISTED LIVING INC,1617 N CALISPEL,SPOKANE,WA,99205,Spokane,(509) 325-7339,64,Assisted Living Facility
+No Contract,Yes,1455,30688,FAIRWINDS - SPOKANE,520 EAST HOLLAND AVE,SPOKANE,WA,99218,Spokane,(509) 468-1000,90,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW",Yes,1989,39582,FAIRWOOD NORTHRIDGE LLC,312 W HASTINGS RD,SPOKANE,WA,99218,Spokane,(509) 468-0457,100,Assisted Living Facility
+No Contract,Yes,2516,45610,Fieldstone Memory Care of Spokane,4503 S Freya Street,Spokane,WA,99223,Spokane,,60,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2489,45289,Good Samaritan Society - Spokane Valley,17121 E 8th Ave,Spokane Valley,WA,990168556,Spokane,(509) 924-6161,14,Assisted Living Facility
+No Contract,Yes,1472,30700,GRANDE MANOR,1718 W 9th Ave,Spokane,WA,99204,Spokane,(509) 747-7233,12,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2035,40227,GUARDIAN ANGEL HOMES LIBERTY LAKE,23102 E MISSION AVE,LIBERTY LAKE,WA,99019,Spokane,(509) 893-9300,104,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2066,40589,HOME IS WHERE THE HEART IS,11010 E 4th Ave,Spokane Valley,WA,99206,Spokane,(509) 891-2717,21,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2242,42016,Home is Where the Heart Is (2),14805 E Mission Ave,Spokane Valley,WA,99216,Spokane,(509) 939-7218,27,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1906,38697,Magnolia Care Enhanced Living,1707 E Rowan Ave,Spokane,WA,99207,Spokane,(509) 482-6290,53,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1017,30320,MALLON PLACE INC,1724 W Mallon Ave,Spokane,WA,99201,Spokane,(509) 327-5945,71,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2470,45152,Maplewood Gardens Assisted Living,1100 North Superior Street,Spokane,WA,99202,Spokane,(509) 489-9510,220,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2207,42023,Milford House,2208 W Matt Milford Pl,Spokane,WA,99201,Spokane,(509) 327-5683,15,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2446,44727,Moore's Assisted Living Inc,1803 W Pacific Ave,Spokane,WA,99201,Spokane,(509) 747-1745,18,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2562,46696,Moran Vista Senior Living,3319 E 57th Ave,Spokane,WA,99223,Spokane,(509) 443-1944,101,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2479,45242,"North Point Village, Assisted Living & Memory Care",1110 E Westview Ct,Spokane,WA,99218,Spokane,(509) 465-8440,126,Assisted Living Facility
+No Contract,Yes,1538,30743,ORCHARD CREST LLC,222 S EVERGREEN ROAD,SPOKANE VALLEY,WA,99216,Spokane,(509) 928-2222,120,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2513,45602,Pine Ridge Alzheimer's Special Care Center,12009 E Mission Ave,Spokane Valley,WA,99206,Spokane,(509) 924-4388,66,Assisted Living Facility
+Assisted Living SOW,Yes,2021,40075,Providence Emilie Court Assisted Living,34 E 8th Ave,Spokane,WA,99202,Spokane,(509) 474-2550,60,Assisted Living Facility
+No Contract,Yes,2438,44779,Ridgeview Place,12903 E Mission Ave,Spokane Valley,WA,99216,Spokane,(509) 927-7176,67,Assisted Living Facility
+No Contract,Yes,2469,45141,Riverview Retirement Community,1952 N Granite St,Spokane,WA,99207,Spokane,(509) 482-9586,24,Assisted Living Facility
+Assisted Living SOW,Yes,2405,44126,Riverview Terrace,1801 E Upriver Dr,Spokane,WA,99207,Spokane,(509) 483-6483,90,Assisted Living Facility
+No Contract,Yes,2577,47149,Rockwood at Whitworth,10331 N Mayberry Drive,Spokane,WA,99218,Spokane,(509) 466-0411,77,Assisted Living Facility
+No Contract,Yes,155,30009,ROCKWOOD SOUTH HILL,2903 E 25TH AVE,SPOKANE,WA,992234963,Spokane,(509) 536-6650,90,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2452,44941,Rose Pointe Assisted Living,13013 E Mission Ave,Spokane Valley,WA,99216,Spokane,,95,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2533,45969,Royal Park Retirement Center,302 E Wedgewood Ave,Spokane,WA,99208,Spokane,(509) 483-7136,95,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,1999,39340,SESSIONS RESIDENTIAL CARE INC,22 N ADAMS RD,SPOKANE VALLEY,WA,99216,Spokane,(509) 999-2538,26,Assisted Living Facility
+Assisted Living SOW,Yes,2480,45240,"South Hill Village, Assisted Living & Memory Care",3117 E Chaser Lane,Spokane,WA,99223,Spokane,(509) 433-8500,170,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2478,45246,"South Hill Village, Assisted Living & Memory Care",5925 S Hailee Lane,Spokane,WA,99223,Spokane,(509) 433-8500,40,Assisted Living Facility
+Assisted Living SOW,Yes,1612,30797,SULLIVAN PARK ASSISTED LIVING COMMUNITY,S 421 ADAMS,SPOKANE,WA,99216,Spokane,(509) 924-5555,53,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,950,30272,SUNSHINE TERRACE,10412 E 9th Ave,Spokane Valley,WA,99206,Spokane,(509) 892-4342,88,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2127,41272,THE BLAIR HOUSE,W 2718 SINTO AVE,SPOKANE,WA,99201,Spokane,(509) 327-6133,12,Assisted Living Facility
+No Contract,Yes,1004,30310,TOUCHMARK ON SOUTH HILL,S 2999 WATERFORD DR,SPOKANE,WA,99203,Spokane,(509) 536-2929,105,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2151,41811,VALLEY HOUSE,401 S Eastern Rd,Spokane Valley,WA,99212,Spokane,(509) 953-8199,37,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2379,44079,Valley Residential Care Inc,14106 E 3rd Ave,Spokane Valley,WA,99216,Spokane,(509) 590-5581,28,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2431,44552,Whitehouse Inc,1534 N Cedar St,Spokane,WA,99201,Spokane,(509) 328-0700,33,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care",Yes,2399,44286,Willow Grove,1620 E Mead St,Spokane,WA,99218,Spokane,(509) 467-1135,20,Assisted Living Facility
+No Contract,Yes,2184,42045,Windriver Place,7310 N Pine Rock St,Spokane,WA,99208,Spokane,(509) 325-1242,49,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2175,41945,Allegiance Supported Living,N 413 Kruger St,Chewelah,WA,99109,Stevens,(509) 935-8233,21,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2534,45972,Buena Vista Healthcare,151 Buena Vista Dr,Colville,WA,99114,Stevens,(509) 684-4539,22,Assisted Living Facility
+Assisted Living SOW,Yes,2495,45200,Parkview Retirement & Assisted Living Residence,240 South Silke Road,Colville,WA,99114,Stevens,(509) 684-5677,58,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2556,46402,Sycamore Glen at Quail Hollow,506 N Ehorn Lane,Chewelah,WA,99109,Stevens,(509) 332-9152,18,Assisted Living Facility
+Assisted Living SOW,Yes,2542,46071,Artesian Place,828 McPhee Rd SW,Olympia,WA,98502,Thurston,,65,Assisted Living Facility
+No Contract,Yes,2036,40005,Bonaventure of Lacey,4528 Intelco Loop SE,Lacey,WA,98503,Thurston,(360) 455-8500,126,Assisted Living Facility
+Assisted Living SOW,Yes,2275,42376,Brookdale Olympia East,616 LILLY RD NE,OLYMPIA,WA,98506,Thurston,(360) 456-0601,75,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2497,45336,Brookdale Olympia West,420 YAUGER WAY SW,OLYMPIA,WA,985028660,Thurston,,64,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2144,41743,Easthaven Villa,311 Cullens St NW,Yelm,WA,98597,Thurston,(360) 458-2800,93,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2504,45294,Fieldstone Cooper Point,810 Fieldstone Dr SW,Olympia,WA,98502,Thurston,(360) 915-5764,120,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2485,45091,Fieldstone Memory Care of Olympia,710 Fieldstone Dr SW,Olympia,WA,98502,Thurston,(360) 915-5737,57,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,1111,30405,GARDEN COURTE ALZHEIMER COMMUNITY,626 LILLY RD NE,OLYMPIA,WA,98506,Thurston,(360) 491-4435,93,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,1579,30775,HAMPTON SPECIAL CARE - TUMWATER,1400 Trosper Rd SW,Tumwater,WA,98512,Thurston,(360) 786-6062,56,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care",Yes,1168,30461,Memory Care At The Lodges,1530 CARPENTER RD SE,LACEY,WA,98503,Thurston,(360) 455-9159,64,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2494,45383,Olympics West Retirement Inn,929 Trosper Rd SW,Tumwater,WA,98512,Thurston,(360) 943-9900,100,Assisted Living Facility
+No Contract,Yes,1161,30454,PANORAMA CITY,1751 Circle Ln SE,Lacey,WA,98503,Thurston,(360) 438-7539,50,Assisted Living Facility
+Assisted Living SOW,Yes,2236,42169,Prestige Senior Living Rosemont,215 Killion Rd NW,Yelm,WA,98597,Thurston,(360) 458-1800,70,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2571,46462,Sequoia Village,825 Lilly Rd NE,Olympia,WA,98506,Thurston,(360) 491-0491,97,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2443,44622,The Cottages at Lacey,8570 Martin Way E,Lacey,WA,98516,Thurston,(360) 489-1128,40,Assisted Living Facility
+Assisted Living SOW,Yes,1709,30860,Woodland Retirement & Assisted Living Community,4532 INTELCO LOOP SE,LACEY,WA,98503,Thurston,(360) 528-3253,114,Assisted Living Facility
+Assisted Living SOW,Yes,2322,42393,Brookdale College Place,550 E WHITMAN DRIVE,COLLEGE PLACE,WA,99324,Walla Walla,(509) 526-7007,95,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2498,45335,Brookdale Walla Walla,1460 DALLES MILITARY RD,WALLA WALLA,WA,99362,Walla Walla,(509) 525-2990,90,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care",Yes,2400,44305,Eagle Springs Senior Alzheimers Community,20 SE Larch Ave,College Place,WA,99324,Walla Walla,(509) 525-6335,54,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,125,30004,WASHINGTON ODD FELLOWS HOME,534 Boyer Ave,Walla Walla,WA,99362,Walla Walla,(509) 525-6463,123,Assisted Living Facility
+No Contract,Yes,1640,30817,WHEATLAND VILLAGE,1500 CATHERINE STREET,WALLA WALLA,WA,99362,Walla Walla,(509) 527-9600,113,Assisted Living Facility
+No Contract,Yes,2354,43757,Whitman Place,1018 Whitman St,Walla Walla,WA,99362,Walla Walla,(509) 522-4630,44,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2244,41758,ALABAMA HOUSE,3630 Alabama St,Bellingham,WA,98229,Whatcom,(360) 676-6000,12,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2525,45657,Brookdale Fairhaven,2600 Old Fairhaven Parkway,Bellingham,WA,98225,Whatcom,(360) 647-1254,60,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2451,44519,Columbia Place,2315 Williams St,Bellingham,WA,98225,Whatcom,(360) 671-3631,35,Assisted Living Facility
+Assisted Living SOW,Yes,2481,45245,"Cordata Court, Assisted Living & Memory Care",4415 Columbine Dr,Bellingham,WA,98226,Whatcom,,115,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1722,30871,GRACE RETIREMENT HOME LLC,2543 MOUNTAIN VIEW RD,FERNDALE,WA,98248,Whatcom,(360) 384-4050,12,Assisted Living Facility
+No Contract,Yes,2097,40889,HIGHGATE SENIOR LIVING,155 E KELLOGG RD,BELLINGHAM,WA,98226,Whatcom,(360) 671-1459,77,Assisted Living Facility
+No Contract,Yes,601,30094,LAKE WHATCOM RESIDENTIAL & TREATMENT CENTER,3400 AGATE HEIGHTS RD,BELLINGHAM,WA,982269472,Whatcom,(360) 676-7530,67,Assisted Living Facility
+No Contract,Yes,2191,42012,Louisa Place,2240 Main St,Ferndale,WA,98248,Whatcom,(360) 384-9017,47,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1148,30441,LYNDEN MANOR,905 AARON DR,LYNDEN,WA,98264,Whatcom,(360) 354-5985,115,Assisted Living Facility
+Assisted Living SOW,Yes,1504,30719,MEADOW GREENS,301 HOMESTEAD BLVD,LYNDEN,WA,98264,Whatcom,(360) 354-8200,35,Assisted Living Facility
+Assisted Living SOW,Yes,1350,30615,ORCHARD PARK ASSISTED LIVING,844 W ORCHARD DRIVE,BELLINGHAM,WA,98225,Whatcom,(360) 647-3708,96,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2441,44780,Rosewood Villa Assisted Living Community,702 32ND ST,BELLINGHAM,WA,98225,Whatcom,(360) 676-9193,70,Assisted Living Facility
+No Contract,Yes,2517,45726,Silverado Bellingham,4400 Columbine Dr,Bellingham,WA,98226,Whatcom,(360) 746-6675,85,Assisted Living Facility
+No Contract,Yes,1913,30975,SPRING CREEK RETIREMENT & ASSISTED LIVING COMMUNITY,223 EAST BAKERVIEW ROAD,BELLINGHAM,WA,98226,Whatcom,(360) 756-2301,122,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,1606,30792,SUMMIT PLACE ASSISTED LIVING,2905   CONNELLY   AVE   ,BELLINGHAM,WA,98225,Whatcom,(360) 738-8447,47,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2576,46738,The Bellingham at Orchard,848 West Orchard Dr,Bellingham,WA,98225,Whatcom,(360) 715-1338,76,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,2563,46697,Woodway Senior Living,1712 E Maplewood Ave,Bellingham,WA,98225,Whatcom,(360) 647-1095,72,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2330,42465,BISHOP PLACE SENIOR LIVING,815 SE Klemgard St,Pullman,WA,99163,Whitman,(509) 334-9488,121,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2370,43994,COMMUNITY PRIDE LLC,102 S Bryant Blvd,Saint John,WA,99171,Whitman,(509) 648-4214,21,Assisted Living Facility
+Assisted Living SOW,Yes,1707,30859,LA DOW COURT ASSISTED LIVING,308 W California St,Garfield,WA,99130,Whitman,(509) 635-1240,16,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2226,41990,Paul's Place,907 S Mill Street,Colfax,WA,99111,Whitman,(509) 397-3433,35,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW",Yes,2060,40751,Regency Pullman,1285 SW Center St,Pullman,WA,99163,Whitman,(509) 332-2629,84,Assisted Living Facility
+No Contract,Yes,2468,45082,Tekoa Care Center,330 N Madison St,Tekoa,WA,99033,Whitman,(509) 284-4501,59,Assisted Living Facility
+Assisted Living SOW,Yes,1624,30804,THE COURTYARD AT COLFAX,300 S Main St,Colfax,WA,99111,Whitman,(509) 397-6123,50,Assisted Living Facility
+Assisted Living SOW,Yes,2460,45017,Avamere at Englewood Heights,3710 Kern Way,Yakima,WA,98902,Yakima,(509) 452-5822,88,Assisted Living Facility
+Enhanced Adult Residential Care,Yes,2462,45018,Avamere at Englewood Heights Memory Care,3706 Kern Way,Yakima,WA,98902,Yakima,(509) 452-5822,20,Assisted Living Facility
+No Contract,Yes,2190,42008,Blossom Place,5100 W Nob Hill Blvd,Yakima,WA,98908,Yakima,(509) 972-7862,55,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,1695,30847,Brookdale Yakima,4100 Englewood Ave,Yakima,WA,98908,Yakima,(509) 965-0111,82,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2156,41718,Chandler House,701 N 39th Ave,Yakima,WA,98902,Yakima,(509) 248-1007,36,Assisted Living Facility
+No Contract,Yes,375,30041,COMPREHENSIVE HEALTHCARE,202 N 7TH ST,YAKIMA,WA,98901,Yakima,(509) 575-4084,12,Assisted Living Facility
+Assisted Living SOW,Yes,2465,45151,Elmcroft of Chesterley,1100 N 35th Ave,Yakima,WA,98902,Yakima,,96,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care",Yes,2346,43745,Fieldstone Memory Care,4120 Englewood Ave,Yakima,WA,98908,Yakima,(509) 965-5282,58,Assisted Living Facility
+"Enhanced Adult Residential Care, Assisted Living SOW",Yes,2404,44248,Fieldstone OrchardWest,4130 Englewood Ave,Yakima,WA,98908,Yakima,(509) 571-1640,92,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Adult Residential Care",Yes,1916,30972,GLEED ORCHARD MANOR,30 LINK RD,GLEED,WA,98908,Yakima,(509) 966-5880,30,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2502,45025,Grandview Assisted Living,912 Hillcrest St,Grandview,WA,98930,Yakima,(509) 402-9040,45,Assisted Living Facility
+No Contract,Yes,2224,42147,HIGHGATE SENIOR LIVING,5605 W CHESTNUT AVE,YAKIMA,WA,98908,Yakima,(509) 972-4141,64,Assisted Living Facility
+No Contract,Yes,998,30305,HILLCREST AT SUMMITVIEW,3801 SUMMITVIEW AVE,YAKIMA,WA,98902,Yakima,(509) 966-6240,50,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care",Yes,1292,30567,JUST LIKE HOME RESIDENT CARE INC,906 NORTH AVE,SUNNYSIDE,WA,98944,Yakima,(509) 839-4663,13,Assisted Living Facility
+"Expanded Community Services, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,804,30175,PONDEROSA RETIREMENT CENTER,3300 ENGLEWOOD AVE,YAKIMA,WA,98902,Yakima,(509) 453-1366,85,Assisted Living Facility
+"Specialized Dementia Care, Enhanced Adult Residential Care, Assisted Living SOW, Adult Residential Care",Yes,2136,41675,RIVERVIEW MANOR,555 E Goodlander Rd,Selah,WA,98942,Yakima,(509) 697-3333,60,Assisted Living Facility
+"Assisted Living SOW, Adult Residential Care",Yes,2440,44615,Sunnyside Assisted Living,907 Ida Belle St,Sunnyside,WA,98944,Yakima,(509) 839-0579,96,Assisted Living Facility
+"Specialized Dementia Care, Expanded Community Services, Enhanced Adult Residential Care, Enhanced Adult Residential Care, Adult Residential Care",Yes,2503,45441,The Orchards at Grandview ,2001 W 5th St,Grandview,WA,98930,Yakima,(509) 203-6182,72,Assisted Living Facility
