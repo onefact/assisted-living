@@ -1,6 +1,6 @@
 # Assisted living data
 
-Data and code for NeurIPS MLPH 2021 extended abstract "Assisted Living in the United States: an Open Dataset"
+Data and code for NeurIPS MLPH 2021 extended abstract *Assisted Living in the United States: an Open Dataset*
 
 Dataset of assisted living facilities is `alf-dataset.csv`. It has data from all 50 states + DC.
 
