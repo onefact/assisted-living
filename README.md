@@ -1,4 +1,4 @@
-# Assisted living data set
+# Assisted living dataset
 
 This repository contains the first national dataset of assisted living facilities in the United States, covering over 44,000 facilities from all 50 states and the District of Columbia.
 
