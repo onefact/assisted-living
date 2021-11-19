@@ -4,7 +4,7 @@ This repository contains the first national dataset of assisted living facilitie
 
 Along with the final dataset, the repository contains Python scripts used to gather, clean, and analyze the data. Additionally, the repository contains all the raw data gathered from each state's licensing agencies.
 
-The project is in the process of being published at the NeurIPS MLPH 2021 Machine Learning in Public Health conference in mid-December as *Assisted Living in the United States: an Open Dataset*. When this happens, we will provide a link to the extended abstract, which gives much more detail as to how "assisted living" was defined, how the data was collected, and more.
+The project is in the process of being published at the NeurIPS MLPH 2021 Machine Learning in Public Health conference in mid-December as *Assisted Living in the United States: an Open Dataset*. When this happens, we will provide a link to the extended abstract, which gives much more detail into the actual dataset, how the data was collected, and more.
 
 The dataset of assisted living facilities is `alf-dataset.csv`.
 
