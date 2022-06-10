@@ -8,7 +8,7 @@ The project was accepted at NeurIPS 2021 as part of the [Machine Learning in Pub
 
 See [here](https://onefact.org/assisted-living) for more information about the dataset and a link to the preprint extended abstract.
 
-The dataset of assisted living facilities is `assisted-living-facilites`, and it is available as a CSV and an Excel.
+The dataset of assisted living facilities is `assisted-living-facilites.csv`.
 
 Brief description of the repository:
 - `notebooks` contains most of our code used to process, clean, and analyize the data. File paths are somewhat broken due to rearranging file structure.
