@@ -4,7 +4,7 @@ This repository contains the first national dataset of assisted living facilitie
 
 Along with the final dataset, the repository contains Python scripts used to gather, clean, and analyze the data. Additionally, the repository contains all the raw data gathered from each state's licensing agencies.
 
-The project was accepted at NeurIPS 2021 as part of the [Machine Learning in Public](https://sites.google.com/nyu.edu/mlph2021/home) (MLPH) workshop.
+[This](https://arxiv.org/abs/2212.14092) project was accepted at NeurIPS 2021 as part of the [Machine Learning in Public](https://sites.google.com/nyu.edu/mlph2021/home) (MLPH) workshop.
 
 See [here](https://onefact.org/assisted-living) for more information about the dataset and a link to the preprint extended abstract.
 
